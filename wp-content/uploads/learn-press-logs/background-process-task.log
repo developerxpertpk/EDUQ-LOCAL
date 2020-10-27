@@ -1,0 +1,546 @@
+----------06-19-2019 @ 16:58:29----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 1945da2859
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-19-2019 @ 16:58:26----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 1945da2859
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-19-2019 @ 16:58:25----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 1945da2859
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-18-2019 @ 17:16:27----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2142e42c39
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-18-2019 @ 17:16:24----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2142e42c39
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-18-2019 @ 17:16:22----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2142e42c39
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-11-2019 @ 10:36:53----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 1fe82cf783
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-11-2019 @ 10:36:50----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 1fe82cf783
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-11-2019 @ 10:36:47----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 1fe82cf783
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-08-2019 @ 12:36:19----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4238552b23
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-08-2019 @ 12:36:18----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4238552b23
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-08-2019 @ 12:36:13----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 4238552b23
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\mickeygong\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 15:21:53----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559920911.3434500694274902343750
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 14:19:18----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559917153.3014259338378906250000
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 13:14:11----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559913242.4345650672912597656250
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 12:14:09----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559909644.5137259960174560546875
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 11:06:07----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559905565.2377290725708007812500
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 10:01:13----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559901671.3899838924407958984375
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 09:00:29----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [doing_wp_cron] => 1559897998.2689878940582275390625
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 09:00:25----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [doing_wp_cron] => 1559897998.2689878940582275390625
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-07-2019 @ 09:00:15----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [doing_wp_cron] => 1559897998.2689878940582275390625
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-04-2019 @ 13:19:41----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2748ac88b2
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-04-2019 @ 13:19:41----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2748ac88b2
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-04-2019 @ 13:19:31----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2748ac88b2
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------06-04-2019 @ 13:19:31----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 2748ac88b2
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+)
+
+
+=> file      :/home/eduq/domains/eduq.nl/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+

@@ -1,0 +1,1921 @@
+# Copyright (C) 2019 eikra
+# This file is distributed under the same license as the eikra package.
+msgid ""
+msgstr ""
+"Project-Id-Version: eikra\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Nederlands\n"
+"Report-Msgid-Bugs-To: support@radiustheme.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"POT-Creation-Date: 2019-07-16 13:18+0000\n"
+"PO-Revision-Date: 2019-11-15 13:42+0000\n"
+"Last-Translator: Taoufik <taoufik@new-wa.nl>\n"
+"Language: nl_NL\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: archive-lp_course.php:44, learnpress/custom/inc/lp-functions.php:471
+msgid "Search our courses"
+msgstr "Zoek een cursus"
+
+#: comments.php:26, template-parts/content-2.php:15,
+#: template-parts/content-single.php:13, template-parts/content.php:13
+msgid "Comments"
+msgstr ""
+
+#: comments.php:29, template-parts/content-2.php:15,
+#: template-parts/content-single.php:13, template-parts/content.php:13
+msgid "Comment"
+msgstr ""
+
+#: comments.php:42
+msgid "Reply"
+msgstr ""
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:73, inc/sidebar-generator.php:39
+msgid "Name"
+msgstr ""
+
+#: comments.php:76, inc/redux-config.php:219
+msgid "Email"
+msgstr ""
+
+#: comments.php:79, template-parts/content-single-event.php:81
+msgid "Website"
+msgstr ""
+
+#: comments.php:85
+msgid "Comment *"
+msgstr ""
+
+#: functions.php:76
+msgid ""
+"Please update plugin <b><i>Eikra Core</b></i> to the latest version "
+"otherwise some functionalities will not work properly. You can update it "
+"from <a href='%s'>here</a>"
+msgstr ""
+
+#: header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386,
+#: inc/class-tgm-plugin-activation.php:827,
+#: inc/class-tgm-plugin-activation.php:2533,
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387,
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388,
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934,
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121,
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/general.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/general.php:48
+msgid "Header Right"
+msgstr ""
+
+#: inc/general.php:59
+msgid "Footer 1"
+msgstr ""
+
+#: inc/general.php:60
+msgid "Footer 2"
+msgstr ""
+
+#: inc/general.php:61
+msgid "Footer 3"
+msgstr ""
+
+#: inc/general.php:62
+msgid "Footer 4"
+msgstr ""
+
+#: inc/general.php:66, inc/helper-functions.php:190
+msgid "Sidebar"
+msgstr ""
+
+#: inc/general.php:75
+msgid "Top Bar 5 - Left"
+msgstr ""
+
+#: inc/general.php:84
+msgid "Top Bar 5 - Right"
+msgstr ""
+
+#: inc/general.php:104
+msgid "Sidebar - LearnPress Single Course"
+msgstr ""
+
+#: inc/helper-functions.php:109
+msgctxt "Google fonts - Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/helper-functions.php:230
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/helper-functions.php:235
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/helper-functions.php:240
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/helper-functions.php:245
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/helper-functions.php:250
+msgid "Github Link"
+msgstr ""
+
+#: inc/helper-functions.php:255
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/helper-functions.php:260
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/helper-functions.php:265
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/helper-functions.php:354, learnpress/custom/inc/lp-functions.php:293
+msgid "There are no available courses!"
+msgstr ""
+
+#: inc/helper-functions.php:357, learnpress/custom/inc/lp-functions.php:296
+msgid "Showing only one result"
+msgstr ""
+
+#: inc/helper-functions.php:367, learnpress/custom/inc/lp-functions.php:306
+msgid "Showing last course of %s results"
+msgstr ""
+
+#: inc/helper-functions.php:370, learnpress/custom/inc/lp-functions.php:309
+msgid "Showing %s-%s of %s results"
+msgstr "Toon %s-%s van %s opleidingen"
+
+#: inc/redux-config.php:28, inc/redux-config.php:29
+msgid "Eikra Options"
+msgstr ""
+
+#: inc/redux-config.php:104, inc/redux-config.php:1523
+msgid "General"
+msgstr ""
+
+#: inc/redux-config.php:113
+msgid "Primary Color"
+msgstr ""
+
+#: inc/redux-config.php:120
+msgid "Secondery/Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:126
+msgid "Preloader"
+msgstr ""
+
+#: inc/redux-config.php:127, inc/redux-config.php:145,
+#: inc/redux-config.php:328, inc/redux-config.php:337,
+#: inc/redux-config.php:346, inc/redux-config.php:469,
+#: inc/redux-config.php:477, inc/redux-config.php:485,
+#: inc/redux-config.php:708, inc/redux-config.php:775,
+#: inc/redux-config.php:783, inc/redux-config.php:990,
+#: inc/redux-config.php:998, inc/redux-config.php:1325,
+#: inc/redux-config.php:1536, inc/redux-config.php:1544,
+#: inc/redux-config.php:1558
+msgid "Enabled"
+msgstr ""
+
+#: inc/redux-config.php:128, inc/redux-config.php:146,
+#: inc/redux-config.php:329, inc/redux-config.php:338,
+#: inc/redux-config.php:347, inc/redux-config.php:470,
+#: inc/redux-config.php:478, inc/redux-config.php:486,
+#: inc/redux-config.php:709, inc/redux-config.php:776,
+#: inc/redux-config.php:784, inc/redux-config.php:991,
+#: inc/redux-config.php:999, inc/redux-config.php:1326,
+#: inc/redux-config.php:1537, inc/redux-config.php:1545,
+#: inc/redux-config.php:1559
+msgid "Disabled"
+msgstr ""
+
+#: inc/redux-config.php:134
+msgid "Preloader Image"
+msgstr ""
+
+#: inc/redux-config.php:135
+msgid ""
+"Please upload your choice of preloader image. Transparent GIF format is "
+"recommended"
+msgstr ""
+
+#: inc/redux-config.php:144
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/redux-config.php:152
+msgid "Alternative Preview Image"
+msgstr ""
+
+#: inc/redux-config.php:153
+msgid ""
+"This image will be used as preview image in some archive pages if no "
+"featured image exists"
+msgstr ""
+
+#: inc/redux-config.php:161
+msgid "Research Slug"
+msgstr ""
+
+#: inc/redux-config.php:162
+msgid "Will be used as slug in Research breadcrumb"
+msgstr ""
+
+#: inc/redux-config.php:168
+msgid "Event Slug"
+msgstr ""
+
+#: inc/redux-config.php:169
+msgid "Will be used as slug in Event breadcrumb"
+msgstr ""
+
+#: inc/redux-config.php:175
+msgid "Event Time Format"
+msgstr ""
+
+#: inc/redux-config.php:177
+msgid "24-hour"
+msgstr ""
+
+#: inc/redux-config.php:178
+msgid "12-hour"
+msgstr ""
+
+#: inc/redux-config.php:186
+msgid "Course Slug"
+msgstr ""
+
+#: inc/redux-config.php:187
+msgid "Will be used as slug in Course breadcrumb"
+msgstr ""
+
+#: inc/redux-config.php:194
+msgid "Instructor Slug"
+msgstr ""
+
+#: inc/redux-config.php:195
+msgid "Will be used as slug in Instructor breadcrumb"
+msgstr ""
+
+#: inc/redux-config.php:204
+msgid "Contact & Socials"
+msgstr ""
+
+#: inc/redux-config.php:207
+msgid "In case you want to hide any field, just keep that field empty"
+msgstr ""
+
+#: inc/redux-config.php:213
+msgid "Phone"
+msgstr ""
+
+#: inc/redux-config.php:226
+msgid "Address"
+msgstr ""
+
+#: inc/redux-config.php:232
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-config.php:238
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-config.php:244
+msgid "Google Plus"
+msgstr ""
+
+#: inc/redux-config.php:250
+msgid "Linkedin"
+msgstr ""
+
+#: inc/redux-config.php:256
+msgid "Youtube"
+msgstr ""
+
+#: inc/redux-config.php:262
+msgid "Pinterest"
+msgstr ""
+
+#: inc/redux-config.php:268
+msgid "Instagram"
+msgstr ""
+
+#: inc/redux-config.php:274
+msgid "Skype"
+msgstr ""
+
+#: inc/redux-config.php:280
+msgid "RSS"
+msgstr ""
+
+#: inc/redux-config.php:289
+msgid "Header"
+msgstr ""
+
+#: inc/redux-config.php:297
+msgid "Main Logo"
+msgstr ""
+
+#: inc/redux-config.php:305
+msgid "Light Logo"
+msgstr ""
+
+#: inc/redux-config.php:309
+msgid "Used when Transparent Header is enabled"
+msgstr ""
+
+#: inc/redux-config.php:314
+msgid "Logo Area Width"
+msgstr ""
+
+#: inc/redux-config.php:315
+msgid ""
+"Width is defined by the number of bootstrap columns. Please note, navigation "
+"menu width will be decreased with the increase of logo width<br/>Note: Not "
+"applicable for Header 5"
+msgstr ""
+
+#: inc/redux-config.php:317, inc/redux-config.php:717
+msgid "1 Column"
+msgstr ""
+
+#: inc/redux-config.php:318
+msgid "2 Column"
+msgstr ""
+
+#: inc/redux-config.php:319
+msgid "3 Column"
+msgstr ""
+
+#: inc/redux-config.php:320
+msgid "4 Column"
+msgstr ""
+
+#: inc/redux-config.php:327
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/redux-config.php:331
+msgid "Show header when scroll down"
+msgstr ""
+
+#: inc/redux-config.php:336
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/redux-config.php:340
+msgid ""
+"You have to enable Banner or Slider in page to make it work properly. You "
+"can override this settings in individual pages"
+msgstr ""
+
+#: inc/redux-config.php:345
+msgid "Top Bar"
+msgstr ""
+
+#: inc/redux-config.php:349, inc/redux-config.php:378, inc/redux-config.php:449
+msgid "You can override this settings in individual pages"
+msgstr ""
+
+#: inc/redux-config.php:354
+msgid "Top Bar Layout"
+msgstr ""
+
+#: inc/redux-config.php:358, inc/redux-config.php:421,
+#: inc/redux-config.php:1215
+msgid "Layout 1"
+msgstr ""
+
+#: inc/redux-config.php:362, inc/redux-config.php:425,
+#: inc/redux-config.php:1219
+msgid "Layout 2"
+msgstr ""
+
+#: inc/redux-config.php:366, inc/redux-config.php:429
+msgid "Layout 3"
+msgstr ""
+
+#: inc/redux-config.php:370, inc/redux-config.php:433
+msgid "Layout 4"
+msgstr ""
+
+#: inc/redux-config.php:374, inc/redux-config.php:437
+msgid "Layout 5"
+msgstr ""
+
+#: inc/redux-config.php:385
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/redux-config.php:393
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/redux-config.php:401
+msgid "Top Bar Icon Color"
+msgstr ""
+
+#: inc/redux-config.php:409
+msgid "Transparent Top Bar Text Color"
+msgstr ""
+
+#: inc/redux-config.php:410, inc/redux-config.php:545
+msgid "Applied when Transparent Header is enabled"
+msgstr ""
+
+#: inc/redux-config.php:417
+msgid "Header Layout"
+msgstr ""
+
+#: inc/redux-config.php:441
+msgid "Layout 6"
+msgstr ""
+
+#: inc/redux-config.php:445
+msgid "Layout 7"
+msgstr ""
+
+#: inc/redux-config.php:454
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/redux-config.php:455, inc/redux-config.php:462
+msgid "Applicable depending on Topbar/Header Layout"
+msgstr ""
+
+#: inc/redux-config.php:461
+msgid "Header Button URL"
+msgstr ""
+
+#: inc/redux-config.php:468
+msgid "Search Icon"
+msgstr ""
+
+#: inc/redux-config.php:476
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/redux-config.php:484
+msgid "Vertical Menu Icon"
+msgstr ""
+
+#: inc/redux-config.php:495
+msgid "Main Menu"
+msgstr ""
+
+#: inc/redux-config.php:503
+msgid "Main Menu Items"
+msgstr ""
+
+#: inc/redux-config.php:509
+msgid "Menu Font"
+msgstr ""
+
+#: inc/redux-config.php:528, inc/redux-config.php:536
+msgid "Menu Color"
+msgstr ""
+
+#: inc/redux-config.php:544
+msgid "Transparent Menu Color"
+msgstr ""
+
+#: inc/redux-config.php:552
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:558
+msgid "Sub Menu Items"
+msgstr ""
+
+#: inc/redux-config.php:564
+msgid "Submenu Font"
+msgstr ""
+
+#: inc/redux-config.php:583
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/redux-config.php:590
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/redux-config.php:597
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:604
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#: inc/redux-config.php:610
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/redux-config.php:616
+msgid "Screen width in which mobile menu activated"
+msgstr ""
+
+#: inc/redux-config.php:617
+msgid "Recommended value is: 992"
+msgstr ""
+
+#: inc/redux-config.php:626
+msgid "Mobile Menu Font"
+msgstr ""
+
+#: inc/redux-config.php:647, inc/redux-config.php:989
+msgid "Banner"
+msgstr ""
+
+#: inc/redux-config.php:656
+msgid "Banner Heading Color"
+msgstr ""
+
+#: inc/redux-config.php:663
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/redux-config.php:670
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:677
+msgid "Active Breadcrumb Color"
+msgstr ""
+
+#: inc/redux-config.php:684
+msgid "Breadcrumb Seperator Color"
+msgstr ""
+
+#: inc/redux-config.php:693
+msgid "Footer"
+msgstr ""
+
+#: inc/redux-config.php:701
+msgid "Footer Area"
+msgstr ""
+
+#: inc/redux-config.php:707
+msgid "Display Footer Area"
+msgstr ""
+
+#: inc/redux-config.php:715
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/redux-config.php:718
+msgid "2 Columns"
+msgstr ""
+
+#: inc/redux-config.php:719
+msgid "3 Columns"
+msgstr ""
+
+#: inc/redux-config.php:720
+msgid "4 Columns"
+msgstr ""
+
+#: inc/redux-config.php:729
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/redux-config.php:737
+msgid "Footer Title Text Color"
+msgstr ""
+
+#: inc/redux-config.php:745
+msgid "Footer Body Text Color"
+msgstr ""
+
+#: inc/redux-config.php:753
+msgid "Footer Body Link Color"
+msgstr ""
+
+#: inc/redux-config.php:761
+msgid "Footer Body Link Hover Color"
+msgstr ""
+
+#: inc/redux-config.php:768
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/redux-config.php:774
+msgid "Display Copyright Area"
+msgstr ""
+
+#: inc/redux-config.php:782
+msgid "Display Payment Icons"
+msgstr ""
+
+#: inc/redux-config.php:791
+msgid "Payment Icons Gallery"
+msgstr ""
+
+#: inc/redux-config.php:798
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/redux-config.php:806
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/redux-config.php:813
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/redux-config.php:823
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-config.php:830
+msgid "Body"
+msgstr ""
+
+#: inc/redux-config.php:847
+msgid "Header h1"
+msgstr ""
+
+#: inc/redux-config.php:864
+msgid "Header h2"
+msgstr ""
+
+#: inc/redux-config.php:881
+msgid "Header h3"
+msgstr ""
+
+#: inc/redux-config.php:898
+msgid "Header h4"
+msgstr ""
+
+#: inc/redux-config.php:915
+msgid "Header h5"
+msgstr ""
+
+#: inc/redux-config.php:932
+msgid "Header h6"
+msgstr ""
+
+#: inc/redux-config.php:956
+msgid "Layout"
+msgstr ""
+
+#: inc/redux-config.php:958
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:959
+msgid "Full Width"
+msgstr ""
+
+#: inc/redux-config.php:960
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:967
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:975
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/redux-config.php:982
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/redux-config.php:997
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/redux-config.php:1006
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/redux-config.php:1008
+msgid "Background Image"
+msgstr ""
+
+#: inc/redux-config.php:1009
+msgid "Background Color"
+msgstr ""
+
+#: inc/redux-config.php:1017
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/redux-config.php:1026
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/redux-config.php:1037
+msgid "Layout Defaults"
+msgstr ""
+
+#: inc/redux-config.php:1048
+msgid "Page"
+msgstr ""
+
+#: inc/redux-config.php:1059
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/redux-config.php:1070
+msgid "Post Single"
+msgstr ""
+
+#: inc/redux-config.php:1081
+msgid "Style"
+msgstr ""
+
+#: inc/redux-config.php:1084
+msgid "Style 1"
+msgstr ""
+
+#: inc/redux-config.php:1085
+msgid "Style 2"
+msgstr ""
+
+#: inc/redux-config.php:1086
+msgid "Style 3"
+msgstr ""
+
+#: inc/redux-config.php:1087
+msgid "Style 4"
+msgstr ""
+
+#: inc/redux-config.php:1096
+msgid "Course Archive"
+msgstr ""
+
+#: inc/redux-config.php:1111
+msgid "Single Course"
+msgstr ""
+
+#: inc/redux-config.php:1124
+msgid "Single Instructor"
+msgstr ""
+
+#: inc/redux-config.php:1135
+msgid "Single Research"
+msgstr ""
+
+#: inc/redux-config.php:1146
+msgid "Single Event"
+msgstr ""
+
+#: inc/redux-config.php:1157
+msgid "Search Layout"
+msgstr ""
+
+#: inc/redux-config.php:1169
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/redux-config.php:1181
+msgid "Shop Archive"
+msgstr ""
+
+#: inc/redux-config.php:1192
+msgid "Product Single"
+msgstr ""
+
+#: inc/redux-config.php:1203
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/redux-config.php:1211
+msgid "Blog/Archive Layout"
+msgstr ""
+
+#: inc/redux-config.php:1227
+msgid "Show Date"
+msgstr ""
+
+#: inc/redux-config.php:1228, inc/redux-config.php:1236,
+#: inc/redux-config.php:1244, inc/redux-config.php:1252,
+#: inc/redux-config.php:1272, inc/redux-config.php:1280,
+#: inc/redux-config.php:1288, inc/redux-config.php:1296,
+#: inc/redux-config.php:1304, inc/redux-config.php:1354,
+#: inc/redux-config.php:1362, inc/redux-config.php:1371,
+#: inc/redux-config.php:1380, inc/redux-config.php:1389,
+#: inc/redux-config.php:1397, inc/redux-config.php:1406,
+#: inc/redux-config.php:1415, inc/redux-config.php:1426,
+#: inc/redux-config.php:1436
+msgid "On"
+msgstr ""
+
+#: inc/redux-config.php:1229, inc/redux-config.php:1237,
+#: inc/redux-config.php:1245, inc/redux-config.php:1253,
+#: inc/redux-config.php:1273, inc/redux-config.php:1281,
+#: inc/redux-config.php:1289, inc/redux-config.php:1297,
+#: inc/redux-config.php:1305, inc/redux-config.php:1355,
+#: inc/redux-config.php:1363, inc/redux-config.php:1372,
+#: inc/redux-config.php:1381, inc/redux-config.php:1390,
+#: inc/redux-config.php:1398, inc/redux-config.php:1407,
+#: inc/redux-config.php:1416, inc/redux-config.php:1427,
+#: inc/redux-config.php:1437
+msgid "Off"
+msgstr ""
+
+#: inc/redux-config.php:1235, inc/redux-config.php:1279
+msgid "Show Author Name"
+msgstr ""
+
+#: inc/redux-config.php:1243, inc/redux-config.php:1287,
+#: inc/redux-config.php:1353
+msgid "Show Categories"
+msgstr ""
+
+#: inc/redux-config.php:1251, inc/redux-config.php:1295
+msgid "Show Comment Number"
+msgstr ""
+
+#: inc/redux-config.php:1263
+msgid "Post Settings"
+msgstr ""
+
+#: inc/redux-config.php:1271
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/redux-config.php:1303, inc/redux-config.php:1361
+msgid "Show Tags"
+msgstr ""
+
+#: inc/redux-config.php:1315
+msgid "Course Settings"
+msgstr ""
+
+#: inc/redux-config.php:1324
+msgid "Sitewide Hide Price"
+msgstr ""
+
+#: inc/redux-config.php:1328
+msgid "If enabled then hide prices from everywhere"
+msgstr ""
+
+#: inc/redux-config.php:1334
+msgid "Show Information"
+msgstr ""
+
+#: inc/redux-config.php:1336, learnpress/custom/inc/lp-functions.php:13,
+#: learnpress/custom/inc/lp-functions.php:84
+msgid "Instructor"
+msgstr ""
+
+#: inc/redux-config.php:1337, learnpress/custom/inc/lp-functions.php:87
+msgid "Lectures"
+msgstr ""
+
+#: inc/redux-config.php:1338, learnpress/custom/inc/lp-functions.php:90
+msgid "Quizzes"
+msgstr ""
+
+#: inc/redux-config.php:1339, learnpress/custom/course-box-2.php:19,
+#: learnpress/custom/inc/lp-functions.php:93
+msgid "Students"
+msgstr ""
+
+#: inc/redux-config.php:1340, learnpress/custom/inc/lp-functions.php:115
+msgid "Duration"
+msgstr ""
+
+#: inc/redux-config.php:1370
+msgid "Show Curriculum Tab"
+msgstr ""
+
+#: inc/redux-config.php:1379
+msgid "Show Instructor Tab"
+msgstr ""
+
+#: inc/redux-config.php:1388
+msgid "Show Review Tab"
+msgstr ""
+
+#: inc/redux-config.php:1396
+msgid "Show Related Courses"
+msgstr ""
+
+#: inc/redux-config.php:1405
+msgid "Show Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:1414
+msgid "Show Progress Box"
+msgstr ""
+
+#: inc/redux-config.php:1418
+msgid "Available for enrolled users"
+msgstr ""
+
+#: inc/redux-config.php:1425
+msgid "Show Price Box"
+msgstr ""
+
+#: inc/redux-config.php:1435
+msgid "Show Rating Box"
+msgstr ""
+
+#: inc/redux-config.php:1450
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-config.php:1451
+msgid "Error 404"
+msgstr ""
+
+#: inc/redux-config.php:1457
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/redux-config.php:1463
+msgid "Body Banner"
+msgstr ""
+
+#: inc/redux-config.php:1471
+msgid "Body Text 1"
+msgstr ""
+
+#: inc/redux-config.php:1472
+msgid "Page not Found"
+msgstr ""
+
+#: inc/redux-config.php:1477
+msgid "Body Text 2"
+msgstr ""
+
+#: inc/redux-config.php:1478
+msgid ""
+"The page you are looking is not available or has been removed. Try going to "
+"Home Page by using the button below."
+msgstr ""
+
+#: inc/redux-config.php:1484
+msgid "Body Text 1 Color"
+msgstr ""
+
+#: inc/redux-config.php:1491
+msgid "Body Text 2 Color"
+msgstr ""
+
+#: inc/redux-config.php:1497
+msgid "Button Text"
+msgstr ""
+
+#: inc/redux-config.php:1498
+msgid "Go to Home Page"
+msgstr ""
+
+#: inc/redux-config.php:1503
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/redux-config.php:1515
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/redux-config.php:1529
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/redux-config.php:1535
+msgid "Product Add to Wishlist Icon"
+msgstr ""
+
+#: inc/redux-config.php:1543
+msgid "Product Quickview Icon"
+msgstr ""
+
+#: inc/redux-config.php:1551
+msgid "Product Single Page"
+msgstr ""
+
+#: inc/redux-config.php:1557
+msgid "Show excerpt when short description doesn't exist"
+msgstr ""
+
+#: inc/redux-config.php:1565
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/redux-config.php:1566, inc/redux-config.php:1574,
+#: inc/redux-config.php:1582, inc/redux-config.php:1590,
+#: inc/redux-config.php:1598, inc/redux-config.php:1606,
+#: inc/redux-config.php:1620
+msgid "Show"
+msgstr ""
+
+#: inc/redux-config.php:1567, inc/redux-config.php:1575,
+#: inc/redux-config.php:1583, inc/redux-config.php:1591,
+#: inc/redux-config.php:1599, inc/redux-config.php:1607,
+#: inc/redux-config.php:1621
+msgid "Hide"
+msgstr ""
+
+#: inc/redux-config.php:1573
+msgid "Tags"
+msgstr ""
+
+#: inc/redux-config.php:1581, woocommerce/single-product/related.php:24
+msgid "Related Products"
+msgstr ""
+
+#: inc/redux-config.php:1589
+msgid "Description Tab"
+msgstr ""
+
+#: inc/redux-config.php:1597
+msgid "Reviews Tab"
+msgstr ""
+
+#: inc/redux-config.php:1605
+msgid "Additional Information Tab"
+msgstr ""
+
+#: inc/redux-config.php:1613
+msgid "Cart Page"
+msgstr ""
+
+#: inc/redux-config.php:1619
+msgid "Cross Sell Products"
+msgstr ""
+
+#: inc/scripts.php:106, learnpress/custom/inc/lp-functions.php:333
+msgid "Day"
+msgstr ""
+
+#: inc/scripts.php:107
+msgid "Hour"
+msgstr ""
+
+#: inc/scripts.php:108
+msgid "Minute"
+msgstr ""
+
+#: inc/scripts.php:109
+msgid "Second"
+msgstr ""
+
+#: inc/sidebar-generator.php:32
+msgid "Add New Sidebar"
+msgstr ""
+
+#: inc/sidebar-generator.php:41
+msgid "Add"
+msgstr ""
+
+#: inc/sidebar-generator.php:69
+msgid "Are you sure you want to remove this custom sidebar"
+msgstr ""
+
+#: inc/sidebar-generator.php:70
+msgid "Operation failed"
+msgstr ""
+
+#: inc/sidebar-generator.php:83
+msgid "Sidebar name can't be empty"
+msgstr ""
+
+#: inc/sidebar-generator.php:86, inc/sidebar-generator.php:133
+msgid "Empty nonce"
+msgstr ""
+
+#: inc/sidebar-generator.php:89, inc/sidebar-generator.php:136
+msgid "Invalid nonce"
+msgstr ""
+
+#: inc/sidebar-generator.php:96
+msgid ""
+"Sidebar with the same name already exists. Please choose a different name"
+msgstr ""
+
+#: inc/sidebar-generator.php:130
+msgid "Sidebar ID not found"
+msgstr ""
+
+#: inc/woo-functions.php:165
+msgid "Name *"
+msgstr ""
+
+#: inc/woo-functions.php:166
+msgid "Email *"
+msgstr ""
+
+#: inc/woo-functions.php:172
+msgid "Your Rating"
+msgstr ""
+
+#: inc/woo-functions.php:174
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/woo-functions.php:175
+msgid "Perfect"
+msgstr ""
+
+#: inc/woo-functions.php:176
+msgid "Good"
+msgstr ""
+
+#: inc/woo-functions.php:177
+msgid "Average"
+msgstr ""
+
+#: inc/woo-functions.php:178
+msgid "Not that bad"
+msgstr ""
+
+#: inc/woo-functions.php:179
+msgid "Very Poor"
+msgstr ""
+
+#: inc/woo-functions.php:183
+msgid "Your Review *"
+msgstr ""
+
+#: template-parts/content-2.php:48, template-parts/content-single.php:33,
+#: template-parts/content.php:36
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/content-2.php:51, template-parts/content-single.php:36,
+#: template-parts/content.php:39
+msgid "By"
+msgstr ""
+
+#: template-parts/content-banner.php:14
+msgid "Course Category:"
+msgstr "Cursuscategorie:"
+
+#: template-parts/content-banner.php:18
+msgid "Course Tag:"
+msgstr ""
+
+#: template-parts/content-banner.php:27
+msgid "Search Results for : "
+msgstr "Zoekresultaten voor :"
+
+#: template-parts/content-banner.php:34
+msgid "All Posts"
+msgstr ""
+
+#: template-parts/content-banner.php:39
+msgid "All Courses"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:10, template-parts/content.php:53
+msgid "Read More"
+msgstr "Lees meer"
+
+#: template-parts/content-single-course.php:18,
+#: learnpress/custom/inc/lp-functions.php:126
+msgid "Categories:"
+msgstr "Categorieën:"
+
+#: template-parts/content-single-course.php:21,
+#: template-parts/content-single.php:55,
+#: learnpress/custom/inc/lp-functions.php:129
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/content-single-event.php:51
+msgid "EVENT INFO"
+msgstr ""
+
+#: template-parts/content-single-event.php:55
+msgid "Start Date"
+msgstr ""
+
+#: template-parts/content-single-event.php:60
+msgid "Start Time"
+msgstr ""
+
+#: template-parts/content-single-event.php:65
+msgid "End Date"
+msgstr ""
+
+#: template-parts/content-single-event.php:70
+msgid "End Time"
+msgstr ""
+
+#: template-parts/content-single-event.php:73
+msgid "Number of Participants"
+msgstr ""
+
+#: template-parts/content-single-event.php:77
+msgid "Location"
+msgstr ""
+
+#: template-parts/content-single-event.php:92
+msgid "FIND THIS EVENT ON"
+msgstr ""
+
+#: wc-template-parts/content-product-meta.php:14
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categorie:"
+msgstr[1] "Categorieën:"
+
+#: wc-template-parts/content-product-meta.php:16
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wc-template-parts/content-product-sku.php:12
+msgid "N/A"
+msgstr ""
+
+#: wc-template-parts/content-product-sku.php:13
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:17
+msgid "Add to Wishlist"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:37, woocommerce/add-to-wishlist.php:55
+msgid "Already added in Wishlist. Click here to view Wishlist"
+msgstr ""
+
+#: inc/views/comments-callback.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:19
+msgid "Student"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:25,
+#: learnpress/addons/course-review/course-review.php:11
+msgid "Reviews"
+msgstr ""
+
+#: learnpress/custom/course-box-2.php:25
+msgid "Review"
+msgstr ""
+
+#: learnpress/custom/course-progress.php:12
+msgid "Your Progress"
+msgstr ""
+
+#: learnpress/custom/course-progress.php:18
+msgid "Price"
+msgstr ""
+
+#: learnpress/custom/course-progress.php:25
+msgid "Rating"
+msgstr ""
+
+#: learnpress/custom/related-course.php:105
+msgid "Related Courses"
+msgstr ""
+
+#: learnpress/custom/wishlist-modal.php:14
+msgid ""
+"You must be logged in before using WishList. To login click <a href=\"%s\">"
+"here</a>"
+msgstr ""
+
+#: learnpress/profile/profile-cover.php:48
+msgid "Sign Out"
+msgstr ""
+
+#: template-parts/header/icon-search.php:12
+msgid "Search Here..."
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:24
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:12
+msgid "Average Rating"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:19
+msgid " Star"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:19
+msgid " Stars"
+msgstr ""
+
+#: learnpress/addons/course-review/course-rate.php:37
+msgid "Not enough ratings to display"
+msgstr ""
+
+#: learnpress/addons/course-review/course-review.php:19
+msgid "Loading..."
+msgstr ""
+
+#: learnpress/addons/course-review/course-review.php:23
+msgid "Load More"
+msgstr ""
+
+#: learnpress/addons/course-review/course-review.php:30
+msgid "There is no review for this course"
+msgstr ""
+
+#: learnpress/addons/wishlist/user-wishlist.php:13
+msgid "There are no courses in the wishlist"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:23
+msgid "Overview"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:101
+msgid "minutes"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:101
+msgid "minute"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:104
+msgid "hours"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:104
+msgid "hour"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:107
+msgid "days"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:107
+msgid "day"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:110
+msgid "weeks"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:110
+msgid "week"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:149
+msgid "Image size should be %sx%s px"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:178
+msgid "Instructor Info"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:182,
+#: learnpress/profile/tabs/settings/basic-information.php:72
+msgid "Designation"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:202
+msgid "Custom Order"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:327
+msgid "Weeks"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:327
+msgid "Week"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:333
+msgid "Days"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:339,
+#: learnpress/custom/inc/lp-functions.php:348
+msgid "h"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:351
+msgid "m"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:374,
+#: learnpress/custom/inc/lp-functions.php:385
+msgid "Add this course to your wishlist"
+msgstr ""
+
+#: learnpress/custom/inc/lp-functions.php:385
+msgid "Remove this course from your wishlist"
+msgstr ""
+
+#: learnpress/single-course/section/content.php:37
+msgid "Quiz"
+msgstr ""
+
+#: learnpress/single-course/section/content.php:41
+msgid "Lecture"
+msgstr ""
+
+#: learnpress/single-course/section/content.php:89
+msgid "Preview"
+msgstr ""
+
+#: learnpress/single-course/section/content.php:115
+msgid "No items in this section"
+msgstr ""
+
+#: learnpress/profile/tabs/courses/owned.php:25
+msgid "My Courses"
+msgstr ""
+
+#: learnpress/profile/tabs/courses/owned.php:37
+msgid "No courses!"
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:55
+msgid "First Name"
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:63
+msgid "Last Name"
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:76
+msgid "Nickname"
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:84
+msgid "Display name publicly as"
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:90
+msgid "Biographical Info"
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:94
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+
+#: learnpress/profile/tabs/settings/basic-information.php:127
+msgid "Save Changes"
+msgstr ""

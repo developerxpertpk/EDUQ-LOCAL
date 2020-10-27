@@ -1,0 +1,1532 @@
+# Copyright (C) 2019 eikra-core
+# This file is distributed under the same license as the eikra-core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: eikra-core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: RadiusTheme <info@radiustheme.com>\n"
+"Report-Msgid-Bugs-To: support@radiustheme.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: demo-importer-ocdi.php:22, demo-importer-ocdi.php:23, demo-importer.php:32
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer-ocdi.php:28, demo-importer-ocdi.php:29, demo-importer.php:37
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer-ocdi.php:34, demo-importer-ocdi.php:35, demo-importer.php:42
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer-ocdi.php:40, demo-importer-ocdi.php:41, demo-importer.php:47
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer-ocdi.php:46, demo-importer-ocdi.php:47, demo-importer.php:52
+msgid "Home 5"
+msgstr ""
+
+#: demo-importer-ocdi.php:52, demo-importer-ocdi.php:53, demo-importer.php:57
+msgid "Home 6"
+msgstr ""
+
+#: demo-importer-ocdi.php:58, demo-importer-ocdi.php:59, demo-importer.php:62
+msgid "Home 7"
+msgstr ""
+
+#: demo-importer-ocdi.php:64, demo-importer.php:67
+msgid "Home 1 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:65
+msgid "Home 1 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:70, demo-importer.php:72
+msgid "Home 2 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:71
+msgid "Home 2 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:76, demo-importer.php:77
+msgid "Home 3 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:77
+msgid "Home 3 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:82, demo-importer.php:82
+msgid "Home 4 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:83
+msgid "Home 4 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:88, demo-importer.php:87
+msgid "Home 5 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:89
+msgid "Home 5 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:94, demo-importer.php:92
+msgid "Home 6 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:95
+msgid "Home 6 (Onepage)"
+msgstr ""
+
+#: demo-importer-ocdi.php:100, demo-importer.php:97
+msgid "Home 7 Onepage"
+msgstr ""
+
+#: demo-importer-ocdi.php:101
+msgid "Home 7 (Onepage)"
+msgstr ""
+
+#: demo-importer.php:17
+msgid "Install Demo Contents"
+msgstr ""
+
+#: demo-importer.php:24
+msgid "Warning: All your old data will be lost if you install One Click demo data from here, so it is suitable only for a new website."
+msgstr ""
+
+#: post-meta.php:18, post-meta.php:19, post-meta.php:27, post-meta.php:50, post-meta.php:60, post-meta.php:70, post-meta.php:83, post-meta.php:98, post-meta.php:117, post-meta.php:136, post-meta.php:146, post-meta.php:156
+msgid "Default"
+msgstr ""
+
+#: post-meta.php:21
+msgid "Layout Settings"
+msgstr ""
+
+#: post-meta.php:24, vc-modules/course-slider.php:110, vc-modules/course-slider.php:120, vc-modules/course-slider.php:130, vc-modules/course-slider.php:140, vc-modules/course-slider.php:150, vc-modules/event.php:118, vc-modules/info-box.php:18, vc-modules/logo-slider.php:67, vc-modules/logo-slider.php:77, vc-modules/logo-slider.php:87, vc-modules/logo-slider.php:97, vc-modules/logo-slider.php:107, vc-modules/product-slider.php:79, vc-modules/product-slider.php:89, vc-modules/product-slider.php:99, vc-modules/product-slider.php:109, vc-modules/product-slider.php:119, vc-modules/research.php:40, vc-modules/video.php:43
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:28
+msgid "Full Width"
+msgstr ""
+
+#: post-meta.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: post-meta.php:30
+msgid "Right Sidebar"
+msgstr ""
+
+#: post-meta.php:35
+msgid "Custom Sidebar"
+msgstr ""
+
+#: post-meta.php:41
+msgid "Main Menu"
+msgstr ""
+
+#: post-meta.php:47
+msgid "Transparent Header"
+msgstr ""
+
+#: post-meta.php:51, post-meta.php:61, vc-modules/contact.php:63, vc-modules/course-grid.php:85, vc-modules/course-isotope.php:93, vc-modules/course-slider.php:160, vc-modules/course-slider.php:173, vc-modules/course-slider.php:224, vc-modules/event.php:219, vc-modules/instructor-grid.php:102, vc-modules/instructor-slider.php:197, vc-modules/instructor-slider.php:212, vc-modules/instructor-slider.php:227, vc-modules/instructor-slider.php:266, vc-modules/instructor-slider.php:283, vc-modules/instructor-slider.php:334, vc-modules/logo-slider.php:117, vc-modules/logo-slider.php:130, vc-modules/logo-slider.php:181, vc-modules/posts.php:93, vc-modules/pricing-box.php:115, vc-modules/product-slider.php:129, vc-modules/product-slider.php:142, vc-modules/product-slider.php:193, vc-modules/research.php:104, vc-modules/testimonial.php:138, vc-modules/testimonial.php:171, vc-modules/testimonial.php:202
+msgid "Enabled"
+msgstr ""
+
+#: post-meta.php:52, post-meta.php:62, vc-modules/contact.php:64, vc-modules/course-grid.php:86, vc-modules/course-isotope.php:94, vc-modules/course-slider.php:161, vc-modules/course-slider.php:174, vc-modules/course-slider.php:225, vc-modules/event.php:220, vc-modules/instructor-grid.php:103, vc-modules/instructor-slider.php:198, vc-modules/instructor-slider.php:213, vc-modules/instructor-slider.php:228, vc-modules/instructor-slider.php:267, vc-modules/instructor-slider.php:284, vc-modules/instructor-slider.php:335, vc-modules/logo-slider.php:118, vc-modules/logo-slider.php:131, vc-modules/logo-slider.php:182, vc-modules/posts.php:94, vc-modules/pricing-box.php:114, vc-modules/product-slider.php:130, vc-modules/product-slider.php:143, vc-modules/product-slider.php:194, vc-modules/research.php:105, vc-modules/testimonial.php:139, vc-modules/testimonial.php:172, vc-modules/testimonial.php:203
+msgid "Disabled"
+msgstr ""
+
+#: post-meta.php:57
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:67
+msgid "Top Bar Layout"
+msgstr ""
+
+#: post-meta.php:71, post-meta.php:84, vc-modules/info-box.php:21, vc-modules/research.php:43
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:72, post-meta.php:85, vc-modules/info-box.php:22, vc-modules/research.php:44
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:73, post-meta.php:86, vc-modules/info-box.php:23, vc-modules/research.php:45
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:74, post-meta.php:87, vc-modules/info-box.php:24
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:75, post-meta.php:88, vc-modules/info-box.php:25
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:80
+msgid "Header Layout"
+msgstr ""
+
+#: post-meta.php:89
+msgid "Layout 6"
+msgstr ""
+
+#: post-meta.php:90
+msgid "Layout 7"
+msgstr ""
+
+#: post-meta.php:95
+msgid "Content Padding Top"
+msgstr ""
+
+#: post-meta.php:99, post-meta.php:118
+msgid "0px"
+msgstr ""
+
+#: post-meta.php:100, post-meta.php:119
+msgid "10px"
+msgstr ""
+
+#: post-meta.php:101, post-meta.php:120
+msgid "20px"
+msgstr ""
+
+#: post-meta.php:102, post-meta.php:121
+msgid "30px"
+msgstr ""
+
+#: post-meta.php:103, post-meta.php:122
+msgid "40px"
+msgstr ""
+
+#: post-meta.php:104, post-meta.php:123
+msgid "50px"
+msgstr ""
+
+#: post-meta.php:105, post-meta.php:124
+msgid "60px"
+msgstr ""
+
+#: post-meta.php:106, post-meta.php:125
+msgid "70px"
+msgstr ""
+
+#: post-meta.php:107, post-meta.php:126
+msgid "80px"
+msgstr ""
+
+#: post-meta.php:108, post-meta.php:127
+msgid "90px"
+msgstr ""
+
+#: post-meta.php:109, post-meta.php:128
+msgid "100px"
+msgstr ""
+
+#: post-meta.php:114
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:133
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:137, post-meta.php:147
+msgid "Enable"
+msgstr ""
+
+#: post-meta.php:138, post-meta.php:148
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:143
+msgid "Breadcrumb"
+msgstr ""
+
+#: post-meta.php:153
+msgid "Banner Background Type"
+msgstr ""
+
+#: post-meta.php:157
+msgid "Background Image"
+msgstr ""
+
+#: post-meta.php:158, vc-modules/event.php:153, vc-modules/posts.php:52, vc-modules/pricing-box.php:40
+msgid "Background Color"
+msgstr ""
+
+#: post-meta.php:163
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:165, post-meta.php:170
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: post-meta.php:168
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:179
+msgid "Testimonial Information"
+msgstr ""
+
+#: post-meta.php:182, post-meta.php:305
+msgid "Designation"
+msgstr ""
+
+#: post-meta.php:195
+msgid "Event Information"
+msgstr ""
+
+#: post-meta.php:198
+msgid "Start Date"
+msgstr ""
+
+#: post-meta.php:203
+msgid "Start Time"
+msgstr ""
+
+#: post-meta.php:208
+msgid "End Date"
+msgstr ""
+
+#: post-meta.php:213
+msgid "End Time"
+msgstr ""
+
+#: post-meta.php:218
+msgid "Nubmer of Participants"
+msgstr ""
+
+#: post-meta.php:223
+msgid "Location"
+msgstr ""
+
+#: post-meta.php:228
+msgid "Google Map"
+msgstr ""
+
+#: post-meta.php:231
+msgid "To create your own google map, follow the steps below:<br/>Step 1: Visit %s<br/>Step 2: Search for a location using the search bar of the top-left corner<br/>Step 3: After you find the location, click on the \"Share\" icon from the left panel<br/>Step 4: A popup will come up. From there go to the \"Embed map\" tab. You will find your Google Map code. Copy and paste this code in here"
+msgstr ""
+
+#: post-meta.php:234
+msgid "Website"
+msgstr ""
+
+#: post-meta.php:244
+msgid "Facebook"
+msgstr ""
+
+#: post-meta.php:249
+msgid "Twitter"
+msgstr ""
+
+#: post-meta.php:254
+msgid "Linkedin"
+msgstr ""
+
+#: post-meta.php:259
+msgid "Google Plus"
+msgstr ""
+
+#: post-meta.php:264
+msgid "Youtube"
+msgstr ""
+
+#: post-meta.php:269
+msgid "Pinterest"
+msgstr ""
+
+#: post-meta.php:274
+msgid "Instagram"
+msgstr ""
+
+#: post-meta.php:283
+msgid "Event Socials"
+msgstr ""
+
+#: post-meta.php:286, post-meta.php:309
+msgid "Socials"
+msgstr ""
+
+#: post-meta.php:288
+msgid "Put your Event's Social links here"
+msgstr ""
+
+#: post-meta.php:302
+msgid "Instructor Settings"
+msgstr ""
+
+#: post-meta.php:311
+msgid "Put your social links here"
+msgstr ""
+
+#: post-types.php:18
+msgid "Course"
+msgstr ""
+
+#: post-types.php:19
+msgid "Courses"
+msgstr ""
+
+#: post-types.php:24
+msgid "Instructor"
+msgstr ""
+
+#: post-types.php:25
+msgid "Instructors"
+msgstr ""
+
+#: post-types.php:34
+msgid "Course Category"
+msgstr ""
+
+#: post-types.php:35, widgets/course-cat-widget.php:50
+msgid "Course Categories"
+msgstr ""
+
+#: post-types.php:39
+msgid "Course Tag"
+msgstr ""
+
+#: post-types.php:40
+msgid "Course Tags"
+msgstr ""
+
+#: post-types.php:45
+msgid "Instructor Category"
+msgstr ""
+
+#: post-types.php:46
+msgid "Instructor Categories"
+msgstr ""
+
+#: post-types.php:57, post-types.php:58
+msgid "Research"
+msgstr ""
+
+#: post-types.php:64, vc-modules/event-countdown.php:64
+msgid "Event"
+msgstr ""
+
+#: post-types.php:65
+msgid "Events"
+msgstr ""
+
+#: post-types.php:71
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:72
+msgid "Testimonials"
+msgstr ""
+
+#: post-types.php:78
+msgid "Gallery"
+msgstr ""
+
+#: post-types.php:79
+msgid "Galleries"
+msgstr ""
+
+#: post-types.php:87
+msgid "Research Category"
+msgstr ""
+
+#: post-types.php:88
+msgid "Research Categories"
+msgstr ""
+
+#: post-types.php:92
+msgid "Event Category"
+msgstr ""
+
+#: post-types.php:93
+msgid "Event Categories"
+msgstr ""
+
+#: post-types.php:97
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-types.php:98
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:102
+msgid "Gallery Category"
+msgstr ""
+
+#: post-types.php:103
+msgid "Gallery Categories"
+msgstr ""
+
+#: vc-modules/contact.php:13
+msgid "Eikra: Contact"
+msgstr ""
+
+#: vc-modules/contact.php:24, vc-modules/countdown.php:26, vc-modules/course-grid.php:43, vc-modules/course-isotope.php:66, vc-modules/course-search.php:27, vc-modules/course-slider.php:66, vc-modules/cta.php:28, vc-modules/event-countdown.php:53, vc-modules/image-text-box.php:28, vc-modules/instructor-grid.php:65, vc-modules/instructor-slider.php:90, vc-modules/posts.php:34, vc-modules/pricing-box.php:28, vc-modules/testimonial.php:39, vc-modules/text-with-button.php:29, vc-modules/text-with-title.php:27, vc-modules/title.php:27
+msgid "Style"
+msgstr ""
+
+#: vc-modules/contact.php:27, vc-modules/course-grid.php:46, vc-modules/course-isotope.php:69, vc-modules/course-slider.php:69, vc-modules/cta.php:31, vc-modules/image-text-box.php:31, vc-modules/instructor-grid.php:68, vc-modules/instructor-slider.php:93, vc-modules/posts.php:37, vc-modules/pricing-box.php:31, vc-modules/testimonial.php:42, vc-modules/text-with-title.php:30, vc-modules/title.php:30
+msgid "Style 1"
+msgstr ""
+
+#: vc-modules/contact.php:28, vc-modules/course-grid.php:47, vc-modules/course-isotope.php:59, vc-modules/course-isotope.php:70, vc-modules/course-slider.php:70, vc-modules/cta.php:32, vc-modules/image-text-box.php:32, vc-modules/instructor-grid.php:69, vc-modules/instructor-slider.php:94, vc-modules/posts.php:38, vc-modules/pricing-box.php:32, vc-modules/text-with-title.php:31, vc-modules/title.php:31
+msgid "Style 2"
+msgstr ""
+
+#: vc-modules/contact.php:35, widgets/info-widget.php:76, vc-modules/views/contact-1.php:16
+msgid "Address"
+msgstr ""
+
+#: vc-modules/contact.php:43, widgets/info-widget.php:88
+msgid "Email"
+msgstr ""
+
+#: vc-modules/contact.php:51, vc-modules/views/contact-1.php:30
+msgid "Phone"
+msgstr ""
+
+#: vc-modules/contact.php:59
+msgid "Social Links Display"
+msgstr ""
+
+#: vc-modules/contact.php:61
+msgid "Social Links which are already set in Theme Options"
+msgstr ""
+
+#: vc-modules/contact.php:69, vc-modules/countdown.php:67, vc-modules/counter.php:109, vc-modules/cta.php:76, vc-modules/event-countdown.php:101, vc-modules/image-text-box.php:73, vc-modules/info-box.php:220, vc-modules/pricing-box.php:133, vc-modules/text-with-title.php:78, vc-modules/title.php:76, vc-modules/video.php:81
+msgid "Css"
+msgstr ""
+
+#: vc-modules/contact.php:71, vc-modules/countdown.php:69, vc-modules/counter.php:111, vc-modules/cta.php:78, vc-modules/event-countdown.php:103, vc-modules/image-text-box.php:75, vc-modules/info-box.php:222, vc-modules/pricing-box.php:135, vc-modules/text-with-title.php:80, vc-modules/title.php:78, vc-modules/video.php:83
+msgid "Design options"
+msgstr ""
+
+#: vc-modules/countdown.php:11
+msgid "Eikra: Countdown"
+msgstr ""
+
+#: vc-modules/countdown.php:29, vc-modules/course-search.php:30, vc-modules/event-countdown.php:56, vc-modules/text-with-button.php:32, vc-modules/video.php:35
+msgid "Light Background"
+msgstr ""
+
+#: vc-modules/countdown.php:30, vc-modules/course-search.php:31, vc-modules/event-countdown.php:57, vc-modules/text-with-button.php:33, vc-modules/video.php:36
+msgid "Dark Background"
+msgstr ""
+
+#: vc-modules/countdown.php:37
+msgid "Title 1"
+msgstr ""
+
+#: vc-modules/countdown.php:45
+msgid "Title 2"
+msgstr ""
+
+#: vc-modules/countdown.php:53, vc-modules/research.php:72, vc-modules/testimonial.php:83
+msgid "Date"
+msgstr ""
+
+#: vc-modules/countdown.php:55
+msgid "Enter a future date in YYYY-MM-DD format eg. 2019-11-07"
+msgstr ""
+
+#: vc-modules/countdown.php:61
+msgid "Time (optional)"
+msgstr ""
+
+#: vc-modules/countdown.php:63
+msgid "Enter the time in Hour:Minute format eg. 14:50"
+msgstr ""
+
+#: vc-modules/counter.php:13
+msgid "Eikra: Counter"
+msgstr ""
+
+#: vc-modules/counter.php:16
+msgid "PROFESSIONAL TEACHER"
+msgstr ""
+
+#: vc-modules/counter.php:32
+msgid "Counter Number"
+msgstr ""
+
+#: vc-modules/counter.php:40, vc-modules/course-grid.php:29, vc-modules/course-slider.php:44, vc-modules/cta.php:47, vc-modules/event.php:142, vc-modules/image-text-box.php:47, vc-modules/info-box.php:122, vc-modules/instructor-grid.php:54, vc-modules/instructor-slider.php:73, vc-modules/posts.php:45, vc-modules/pricing-box.php:48, vc-modules/product-slider.php:50, vc-modules/research.php:73, vc-modules/testimonial.php:84, vc-modules/text-with-button.php:40, vc-modules/text-with-title.php:40, vc-modules/title.php:39, vc-modules/video.php:54, widgets/about-widget.php:100, widgets/course-cat-widget.php:58, widgets/info-widget.php:72
+msgid "Title"
+msgstr ""
+
+#: vc-modules/counter.php:47
+msgid "Counter Color"
+msgstr ""
+
+#: vc-modules/counter.php:54
+msgid "Counter Bottom Line Color"
+msgstr ""
+
+#: vc-modules/counter.php:61, vc-modules/title.php:63
+msgid "Title color"
+msgstr ""
+
+#: vc-modules/counter.php:69
+msgid "Counter Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:77, vc-modules/info-box.php:142
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-modules/counter.php:85
+msgid "Counter Speed"
+msgstr ""
+
+#: vc-modules/counter.php:88
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: vc-modules/counter.php:94
+msgid "Counter Steps"
+msgstr ""
+
+#: vc-modules/counter.php:97
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: vc-modules/counter.php:103
+msgid "Width"
+msgstr ""
+
+#: vc-modules/counter.php:105
+msgid "Maximum width in px. Keep this field empty if you want full width"
+msgstr ""
+
+#: vc-modules/course-featured.php:13
+msgid "Eikra: Course Featured"
+msgstr ""
+
+#: vc-modules/course-featured.php:16, vc-modules/course-slider.php:16, vc-modules/logo-slider.php:16, vc-modules/views/course-isotope-2.php:35
+msgid "Featured Courses"
+msgstr ""
+
+#: vc-modules/course-featured.php:23, vc-modules/course-grid.php:23, vc-modules/course-slider.php:38, vc-modules/event.php:108, vc-modules/instructor-slider.php:79, vc-modules/posts.php:24, vc-modules/product-slider.php:40, vc-modules/research.php:30, vc-modules/testimonial.php:29
+msgid "All Categories"
+msgstr ""
+
+#: vc-modules/course-featured.php:49, vc-modules/course-slider.php:58, vc-modules/instructor-slider.php:103, vc-modules/testimonial.php:51
+msgid "Section Title"
+msgstr ""
+
+#: vc-modules/course-featured.php:56
+msgid "Section Title Color"
+msgstr ""
+
+#: vc-modules/course-featured.php:64
+msgid "1st Post"
+msgstr ""
+
+#: vc-modules/course-featured.php:72
+msgid "2nd Post"
+msgstr ""
+
+#: vc-modules/course-featured.php:80
+msgid "3rd Post"
+msgstr ""
+
+#: vc-modules/course-featured.php:88
+msgid "4th Post"
+msgstr ""
+
+#: vc-modules/course-featured.php:96
+msgid "5th Post"
+msgstr ""
+
+#: vc-modules/course-grid.php:11
+msgid "Eikra: Course Grid"
+msgstr ""
+
+#: vc-modules/course-grid.php:30, vc-modules/course-slider.php:45, vc-modules/instructor-grid.php:53, vc-modules/instructor-slider.php:72
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: vc-modules/course-grid.php:31, vc-modules/course-slider.php:46, vc-modules/instructor-grid.php:55, vc-modules/instructor-slider.php:74, vc-modules/research.php:74, vc-modules/testimonial.php:85
+msgid "Custom Order (Available via Order field inside Post Attributes box)"
+msgstr ""
+
+#: vc-modules/course-grid.php:48, vc-modules/course-isotope.php:71, vc-modules/course-slider.php:71, vc-modules/instructor-grid.php:70, vc-modules/instructor-slider.php:95, vc-modules/pricing-box.php:33, vc-modules/testimonial.php:44, vc-modules/text-with-title.php:32, vc-modules/title.php:32
+msgid "Style 3"
+msgstr ""
+
+#: vc-modules/course-grid.php:49, vc-modules/course-slider.php:72, vc-modules/instructor-slider.php:96, vc-modules/text-with-title.php:33
+msgid "Style 4"
+msgstr ""
+
+#: vc-modules/course-grid.php:56, vc-modules/course-slider.php:79, vc-modules/event.php:165, vc-modules/instructor-slider.php:352, vc-modules/posts.php:82, vc-modules/product-slider.php:58, vc-modules/research.php:52, vc-modules/testimonial.php:72, vc-modules/views/course-search.php:21
+msgid "Categories"
+msgstr ""
+
+#: vc-modules/course-grid.php:64, vc-modules/instructor-grid.php:77, vc-modules/research.php:60
+msgid "Items Per Page"
+msgstr ""
+
+#: vc-modules/course-grid.php:67, vc-modules/course-slider.php:90, vc-modules/event.php:180, vc-modules/event.php:193, vc-modules/instructor-grid.php:80, vc-modules/instructor-slider.php:118, vc-modules/posts.php:67, vc-modules/product-slider.php:69, vc-modules/research.php:63, vc-modules/testimonial.php:66
+msgid "Write -1 to show all"
+msgstr ""
+
+#: vc-modules/course-grid.php:73, vc-modules/course-slider.php:96, vc-modules/instructor-grid.php:86, vc-modules/instructor-slider.php:128, vc-modules/instructor-slider.php:141, vc-modules/research.php:69, vc-modules/testimonial.php:80
+msgid "Order By"
+msgstr ""
+
+#: vc-modules/course-grid.php:82, vc-modules/instructor-grid.php:99
+msgid "Pagination"
+msgstr ""
+
+#: vc-modules/course-isotope.php:13
+msgid "Eikra: Course Isotope"
+msgstr ""
+
+#: vc-modules/course-isotope.php:16, vc-modules/gallery.php:16, vc-modules/views/course-search.php:9
+msgid "All"
+msgstr ""
+
+#: vc-modules/course-isotope.php:55
+msgid "Navigation Style"
+msgstr ""
+
+#: vc-modules/course-isotope.php:58
+msgid "Style 1 (Category Navigation)"
+msgstr ""
+
+#: vc-modules/course-isotope.php:78, vc-modules/gallery.php:33
+msgid "All items name"
+msgstr ""
+
+#: vc-modules/course-isotope.php:90, vc-modules/event.php:216, vc-modules/instructor-slider.php:224, vc-modules/posts.php:90, vc-modules/research.php:101
+msgid "Button Display"
+msgstr ""
+
+#: vc-modules/course-search.php:13
+msgid "Eikra: Course Search"
+msgstr ""
+
+#: vc-modules/course-search.php:16
+msgid "Find Your Preferred Courses"
+msgstr ""
+
+#: vc-modules/course-search.php:38
+msgid "Search Title"
+msgstr ""
+
+#: vc-modules/course-slider.php:13
+msgid "Eikra: Course Slider"
+msgstr ""
+
+#: vc-modules/course-slider.php:18, vc-modules/logo-slider.php:18, vc-modules/product-slider.php:22, vc-modules/research.php:18
+msgid "1 col"
+msgstr ""
+
+#: vc-modules/course-slider.php:19, vc-modules/logo-slider.php:19, vc-modules/product-slider.php:23, vc-modules/research.php:19
+msgid "2 col"
+msgstr ""
+
+#: vc-modules/course-slider.php:20, vc-modules/logo-slider.php:20, vc-modules/product-slider.php:24, vc-modules/research.php:20
+msgid "3 col"
+msgstr ""
+
+#: vc-modules/course-slider.php:21, vc-modules/logo-slider.php:21, vc-modules/product-slider.php:25, vc-modules/research.php:21
+msgid "4 col"
+msgstr ""
+
+#: vc-modules/course-slider.php:22, vc-modules/logo-slider.php:22, vc-modules/product-slider.php:26, vc-modules/research.php:22
+msgid "6 col"
+msgstr ""
+
+#: vc-modules/course-slider.php:87, vc-modules/event.php:177, vc-modules/instructor-slider.php:115, vc-modules/product-slider.php:66, vc-modules/testimonial.php:63
+msgid "Total number of items"
+msgstr ""
+
+#: vc-modules/course-slider.php:106, vc-modules/logo-slider.php:63, vc-modules/product-slider.php:75, vc-modules/research.php:128
+msgid "Number of columns ( Desktops > 1199px )"
+msgstr ""
+
+#: vc-modules/course-slider.php:116, vc-modules/logo-slider.php:73, vc-modules/product-slider.php:85, vc-modules/research.php:141
+msgid "Number of columns ( Desktops > 991px )"
+msgstr ""
+
+#: vc-modules/course-slider.php:126, vc-modules/logo-slider.php:83, vc-modules/product-slider.php:95, vc-modules/research.php:154
+msgid "Number of columns ( Tablets > 767px )"
+msgstr ""
+
+#: vc-modules/course-slider.php:136, vc-modules/logo-slider.php:93, vc-modules/product-slider.php:105, vc-modules/research.php:167
+msgid "Number of columns ( Phones < 768px )"
+msgstr ""
+
+#: vc-modules/course-slider.php:146, vc-modules/logo-slider.php:103, vc-modules/product-slider.php:115
+msgid "Number of columns ( Small Phones < 480px )"
+msgstr ""
+
+#: vc-modules/course-slider.php:157, vc-modules/instructor-slider.php:263, vc-modules/logo-slider.php:114, vc-modules/product-slider.php:126, vc-modules/testimonial.php:135
+msgid "Autoplay"
+msgstr ""
+
+#: vc-modules/course-slider.php:163, vc-modules/instructor-slider.php:269, vc-modules/logo-slider.php:120, vc-modules/testimonial.php:141
+msgid "Enabled or disabled autoplay. Default: Enabled"
+msgstr ""
+
+#: vc-modules/course-slider.php:164, vc-modules/course-slider.php:181, vc-modules/course-slider.php:201, vc-modules/course-slider.php:215, vc-modules/course-slider.php:228, vc-modules/instructor-slider.php:270, vc-modules/instructor-slider.php:291, vc-modules/instructor-slider.php:311, vc-modules/instructor-slider.php:325, vc-modules/instructor-slider.php:338, vc-modules/logo-slider.php:121, vc-modules/logo-slider.php:138, vc-modules/logo-slider.php:158, vc-modules/logo-slider.php:172, vc-modules/logo-slider.php:185, vc-modules/product-slider.php:133, vc-modules/product-slider.php:150, vc-modules/product-slider.php:170, vc-modules/product-slider.php:184, vc-modules/product-slider.php:197, vc-modules/testimonial.php:142, vc-modules/testimonial.php:162, vc-modules/testimonial.php:179, vc-modules/testimonial.php:193, vc-modules/testimonial.php:206
+msgid "Slider Options"
+msgstr ""
+
+#: vc-modules/course-slider.php:170, vc-modules/instructor-slider.php:280, vc-modules/logo-slider.php:127, vc-modules/product-slider.php:139, vc-modules/testimonial.php:168
+msgid "Stop on Hover"
+msgstr ""
+
+#: vc-modules/course-slider.php:180, vc-modules/instructor-slider.php:290, vc-modules/logo-slider.php:137, vc-modules/testimonial.php:178
+msgid "Stop autoplay on mouse hover. Default: Enabled"
+msgstr ""
+
+#: vc-modules/course-slider.php:187, vc-modules/instructor-slider.php:297, vc-modules/logo-slider.php:144, vc-modules/product-slider.php:156, vc-modules/testimonial.php:148
+msgid "Autoplay Interval"
+msgstr ""
+
+#: vc-modules/course-slider.php:190, vc-modules/instructor-slider.php:300, vc-modules/logo-slider.php:147, vc-modules/product-slider.php:159, vc-modules/testimonial.php:151
+msgid "5 Seconds"
+msgstr ""
+
+#: vc-modules/course-slider.php:191, vc-modules/instructor-slider.php:301, vc-modules/logo-slider.php:148, vc-modules/product-slider.php:160, vc-modules/testimonial.php:152
+msgid "4 Seconds"
+msgstr ""
+
+#: vc-modules/course-slider.php:192, vc-modules/instructor-slider.php:302, vc-modules/logo-slider.php:149, vc-modules/product-slider.php:161, vc-modules/testimonial.php:153
+msgid "3 Seconds"
+msgstr ""
+
+#: vc-modules/course-slider.php:193, vc-modules/instructor-slider.php:303, vc-modules/logo-slider.php:150, vc-modules/product-slider.php:162, vc-modules/testimonial.php:154
+msgid "2 Seconds"
+msgstr ""
+
+#: vc-modules/course-slider.php:194, vc-modules/instructor-slider.php:304, vc-modules/logo-slider.php:151, vc-modules/testimonial.php:155
+msgid "1 Seconds"
+msgstr ""
+
+#: vc-modules/course-slider.php:200, vc-modules/instructor-slider.php:310, vc-modules/logo-slider.php:157, vc-modules/product-slider.php:169, vc-modules/testimonial.php:161
+msgid "Set any value for example 5 seconds to play it in every 5 seconds. Default: 5 Seconds"
+msgstr ""
+
+#: vc-modules/course-slider.php:207, vc-modules/instructor-slider.php:317, vc-modules/logo-slider.php:164, vc-modules/product-slider.php:176, vc-modules/testimonial.php:185
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: vc-modules/course-slider.php:214, vc-modules/instructor-slider.php:324, vc-modules/logo-slider.php:171, vc-modules/product-slider.php:183, vc-modules/testimonial.php:192
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: vc-modules/course-slider.php:221, vc-modules/instructor-slider.php:331, vc-modules/logo-slider.php:178, vc-modules/product-slider.php:190, vc-modules/testimonial.php:199
+msgid "Loop"
+msgstr ""
+
+#: vc-modules/course-slider.php:227, vc-modules/instructor-slider.php:337, vc-modules/logo-slider.php:184, vc-modules/testimonial.php:205
+msgid "Loop to first item. Default: Enabled"
+msgstr ""
+
+#: vc-modules/cta.php:13
+msgid "Eikra: Call To Action"
+msgstr ""
+
+#: vc-modules/cta.php:16
+msgid "Join 29,12,093 Students."
+msgstr ""
+
+#: vc-modules/cta.php:17
+msgid "JOIN NOW"
+msgstr ""
+
+#: vc-modules/cta.php:39, vc-modules/image-text-box.php:39, vc-modules/logo-slider.php:47
+msgid "Image"
+msgstr ""
+
+#: vc-modules/cta.php:41
+msgid "For best match, upload an image of 819x300 px size"
+msgstr ""
+
+#: vc-modules/cta.php:56, vc-modules/event-countdown.php:95, vc-modules/event.php:231, vc-modules/instructor-slider.php:239, vc-modules/posts.php:101, vc-modules/pricing-box.php:95, vc-modules/research.php:116, vc-modules/text-with-button.php:56, vc-modules/text-with-title.php:56
+msgid "Button Text"
+msgstr ""
+
+#: vc-modules/cta.php:64, vc-modules/event.php:243, vc-modules/instructor-slider.php:251, vc-modules/pricing-box.php:103, vc-modules/text-with-button.php:64, vc-modules/text-with-title.php:64
+msgid "Button URL"
+msgstr ""
+
+#: vc-modules/cta.php:71
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: vc-modules/event-countdown.php:15
+msgid "Eikra: Event Countdown"
+msgstr ""
+
+#: vc-modules/event-countdown.php:18
+msgid "JOIN WITH US"
+msgstr ""
+
+#: vc-modules/event-countdown.php:72
+msgid "Title Type"
+msgstr ""
+
+#: vc-modules/event-countdown.php:75
+msgid "Same as Event"
+msgstr ""
+
+#: vc-modules/event-countdown.php:76, vc-modules/event-countdown.php:83
+msgid "Custom Title"
+msgstr ""
+
+#: vc-modules/event.php:13
+msgid "Eikra: Events"
+msgstr ""
+
+#: vc-modules/event.php:16, vc-modules/event.php:134
+msgid "Upcoming Events"
+msgstr ""
+
+#: vc-modules/event.php:17, vc-modules/posts.php:17
+msgid "VIEW ALL"
+msgstr ""
+
+#: vc-modules/event.php:121
+msgid "List"
+msgstr ""
+
+#: vc-modules/event.php:122
+msgid "Grid"
+msgstr ""
+
+#: vc-modules/event.php:123
+msgid "Box"
+msgstr ""
+
+#: vc-modules/event.php:130
+msgid "Event Type"
+msgstr ""
+
+#: vc-modules/event.php:133
+msgid "All Events"
+msgstr ""
+
+#: vc-modules/event.php:135
+msgid "Past Events"
+msgstr ""
+
+#: vc-modules/event.php:190
+msgid "Number of items per page"
+msgstr ""
+
+#: vc-modules/event.php:203, vc-modules/instructor-slider.php:181, vc-modules/posts.php:73
+msgid "Content Limit"
+msgstr ""
+
+#: vc-modules/event.php:206, vc-modules/instructor-slider.php:184
+msgid "Maximum number of words to display. Default: 35"
+msgstr ""
+
+#: vc-modules/gallery.php:13
+msgid "Eikra: Gallery"
+msgstr ""
+
+#: vc-modules/image-text-box.php:13
+msgid "Eikra: Image Text Box"
+msgstr ""
+
+#: vc-modules/image-text-box.php:16
+msgid "Web Development"
+msgstr ""
+
+#: vc-modules/image-text-box.php:17
+msgid "Over 1125 Courses"
+msgstr ""
+
+#: vc-modules/image-text-box.php:41
+msgid "Recommended image size<br/>Style-1: 380x150 px<br/>Style-2:350x350 px"
+msgstr ""
+
+#: vc-modules/image-text-box.php:55, vc-modules/text-with-button.php:48, vc-modules/title.php:47
+msgid "Subtitle"
+msgstr ""
+
+#: vc-modules/image-text-box.php:67
+msgid "Link (Optional)"
+msgstr ""
+
+#: vc-modules/info-box.php:7
+msgid "Eikra: Info Box"
+msgstr ""
+
+#: vc-modules/info-box.php:32
+msgid "Alignment"
+msgstr ""
+
+#: vc-modules/info-box.php:35
+msgid "Center"
+msgstr ""
+
+#: vc-modules/info-box.php:36
+msgid "Left"
+msgstr ""
+
+#: vc-modules/info-box.php:47
+msgid "Icon Type"
+msgstr ""
+
+#: vc-modules/info-box.php:50
+msgid "FontAwesome"
+msgstr ""
+
+#: vc-modules/info-box.php:51
+msgid "Custom Image"
+msgstr ""
+
+#: vc-modules/info-box.php:56
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: vc-modules/info-box.php:72
+msgid "Upload icon image"
+msgstr ""
+
+#: vc-modules/info-box.php:83
+msgid "Icon style"
+msgstr ""
+
+#: vc-modules/info-box.php:86
+msgid "Rounded"
+msgstr ""
+
+#: vc-modules/info-box.php:87
+msgid "Squire"
+msgstr ""
+
+#: vc-modules/info-box.php:98
+msgid "Icon size"
+msgstr ""
+
+#: vc-modules/info-box.php:100
+msgid "Icon size in px eg. 30"
+msgstr ""
+
+#: vc-modules/info-box.php:110
+msgid "Icon padding"
+msgstr ""
+
+#: vc-modules/info-box.php:112
+msgid "Icon padding in px eg. 15px. Doesn't work on custom image"
+msgstr ""
+
+#: vc-modules/info-box.php:130
+msgid "Title URL"
+msgstr ""
+
+#: vc-modules/info-box.php:132
+msgid "keep this field empty if you don't want the title linkable"
+msgstr ""
+
+#: vc-modules/info-box.php:144
+msgid "Title font size in px. eg 20. If not defined, default h3 font size will be used"
+msgstr ""
+
+#: vc-modules/info-box.php:154
+msgid "Subitle"
+msgstr ""
+
+#: vc-modules/info-box.php:166, vc-modules/text-with-title.php:48, vc-modules/video.php:62
+msgid "Content"
+msgstr ""
+
+#: vc-modules/info-box.php:178
+msgid "Content Font Size"
+msgstr ""
+
+#: vc-modules/info-box.php:180
+msgid "Content font size in px eg. 15. If not defined, default body font size will be used"
+msgstr ""
+
+#: vc-modules/info-box.php:190, vc-modules/text-with-title.php:72
+msgid "Content Width"
+msgstr ""
+
+#: vc-modules/info-box.php:192
+msgid "Content maximum width in px eg 360. Keep this field empty if you want full width"
+msgstr ""
+
+#: vc-modules/info-box.php:198
+msgid "Spacing Before Title"
+msgstr ""
+
+#: vc-modules/info-box.php:200
+msgid "Spacing between icon and title in px eg. 25"
+msgstr ""
+
+#: vc-modules/info-box.php:210
+msgid "Spacing After Title"
+msgstr ""
+
+#: vc-modules/info-box.php:212
+msgid "Spacing between title and content in px eg. 12"
+msgstr ""
+
+#: vc-modules/instructor-grid.php:13
+msgid "Eikra: Instructor Grid"
+msgstr ""
+
+#: vc-modules/instructor-grid.php:29, vc-modules/instructor-slider.php:44, vc-modules/instructor-slider.php:144
+msgid "Name"
+msgstr ""
+
+#: vc-modules/instructor-grid.php:30, vc-modules/instructor-slider.php:45
+msgid "ID (Ascending)"
+msgstr ""
+
+#: vc-modules/instructor-grid.php:31, vc-modules/instructor-slider.php:46
+msgid "ID (Descending)"
+msgstr ""
+
+#: vc-modules/instructor-grid.php:32, vc-modules/instructor-slider.php:47
+msgid "Custom Order"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:13
+msgid "Eikra: Instructor Slider"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:16
+msgid "Our Skilled Instructors"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:17
+msgid "BECOME AN INSTRUCTOR"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:145
+msgid "Custom"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:157
+msgid "1st Instructor"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:169
+msgid "2nd Instructor"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:194
+msgid "Designation Display"
+msgstr ""
+
+#: vc-modules/instructor-slider.php:209
+msgid "Student Count Display"
+msgstr ""
+
+#: vc-modules/logo-slider.php:13
+msgid "Eikra: Logo Slider"
+msgstr ""
+
+#: vc-modules/logo-slider.php:41
+msgid "Add as many as logo images you want. All images must be in the same size. Recommended image size is 270x130 px."
+msgstr ""
+
+#: vc-modules/logo-slider.php:54
+msgid "URL(optional)"
+msgstr ""
+
+#: vc-modules/logo-slider.php:193
+msgid "Open Link in Same Window"
+msgstr ""
+
+#: vc-modules/logo-slider.php:195
+msgid "Misc"
+msgstr ""
+
+#: vc-modules/posts.php:13
+msgid "Eikra: Post"
+msgstr ""
+
+#: vc-modules/posts.php:16
+msgid "Latest Posts"
+msgstr ""
+
+#: vc-modules/posts.php:64
+msgid "Number of Items"
+msgstr ""
+
+#: vc-modules/posts.php:76
+msgid "Maximum number of words to display. Default: 13"
+msgstr ""
+
+#: vc-modules/pricing-box.php:13
+msgid "Eikra: Pricing Box"
+msgstr ""
+
+#: vc-modules/pricing-box.php:16
+msgid "STANDARD"
+msgstr ""
+
+#: vc-modules/pricing-box.php:17
+msgid "BUY NOW"
+msgstr ""
+
+#: vc-modules/pricing-box.php:56
+msgid "Currency Symbol"
+msgstr ""
+
+#: vc-modules/pricing-box.php:59
+msgid "Currency sign eg. $"
+msgstr ""
+
+#: vc-modules/pricing-box.php:69
+msgid "Price"
+msgstr ""
+
+#: vc-modules/pricing-box.php:77
+msgid "Unit Name"
+msgstr ""
+
+#: vc-modules/pricing-box.php:80
+msgid "eg. month or year. Keep empty if you don't want to show unit"
+msgstr ""
+
+#: vc-modules/pricing-box.php:86
+msgid "Features"
+msgstr ""
+
+#: vc-modules/pricing-box.php:89
+msgid "One line per feature. Put BLANK keyword if you want blank line. eg.<br/>Access to all courses<br/>Certificate after completion<br/>BLANK"
+msgstr ""
+
+#: vc-modules/pricing-box.php:111
+msgid "Display as Featured"
+msgstr ""
+
+#: vc-modules/pricing-box.php:126
+msgid "Maximum width"
+msgstr ""
+
+#: vc-modules/pricing-box.php:129
+msgid "Maximum width in px. Keep empty if you want full width. eg. 300"
+msgstr ""
+
+#: vc-modules/product-slider.php:17
+msgid "Eikra: Product Slider"
+msgstr ""
+
+#: vc-modules/product-slider.php:20
+msgid "Our Publications"
+msgstr ""
+
+#: vc-modules/product-slider.php:132
+msgid "Enable or disable autoplay. Default: Enable"
+msgstr ""
+
+#: vc-modules/product-slider.php:149
+msgid "Stop autoplay on mouse hover. Default: Enable"
+msgstr ""
+
+#: vc-modules/product-slider.php:163
+msgid "1 Second"
+msgstr ""
+
+#: vc-modules/product-slider.php:196
+msgid "Loop to first item. Default: Enable"
+msgstr ""
+
+#: vc-modules/research.php:13
+msgid "Eikra: Research Grid"
+msgstr ""
+
+#: vc-modules/research.php:16
+msgid "READ MORE"
+msgstr ""
+
+#: vc-modules/research.php:81, vc-modules/testimonial.php:92
+msgid "Order"
+msgstr ""
+
+#: vc-modules/research.php:84, vc-modules/testimonial.php:95
+msgid "Descending"
+msgstr ""
+
+#: vc-modules/research.php:85, vc-modules/testimonial.php:96
+msgid "Ascending "
+msgstr ""
+
+#: vc-modules/research.php:92
+msgid "Word count"
+msgstr ""
+
+#: vc-modules/research.php:95
+msgid "Maximum number of words"
+msgstr ""
+
+#: vc-modules/testimonial.php:13
+msgid "Eikra: Testimonial"
+msgstr ""
+
+#: vc-modules/testimonial.php:16
+msgid "Our Happy Students"
+msgstr ""
+
+#: vc-modules/testimonial.php:43
+msgid "Style 2 (Requires Dark Background)"
+msgstr ""
+
+#: vc-modules/testimonial.php:102
+msgid "Section Title color"
+msgstr ""
+
+#: vc-modules/testimonial.php:113
+msgid "Name color"
+msgstr ""
+
+#: vc-modules/testimonial.php:120
+msgid "Designation color"
+msgstr ""
+
+#: vc-modules/testimonial.php:127
+msgid "Content color"
+msgstr ""
+
+#: vc-modules/text-with-button.php:13
+msgid "Eikra: Text With Button"
+msgstr ""
+
+#: vc-modules/text-with-button.php:16
+msgid "Learn a new skill online on your time"
+msgstr ""
+
+#: vc-modules/text-with-button.php:17
+msgid "57,000 Online Courses"
+msgstr ""
+
+#: vc-modules/text-with-button.php:18
+msgid "START A FREE TRIAL"
+msgstr ""
+
+#: vc-modules/text-with-title.php:13
+msgid "Eikra: Text With Title"
+msgstr ""
+
+#: vc-modules/text-with-title.php:16, vc-modules/title.php:16
+msgid "Welcome To Eikra"
+msgstr ""
+
+#: vc-modules/text-with-title.php:74
+msgid "Content maximum width in px eg 540. Keep this field empty if you want full width"
+msgstr ""
+
+#: vc-modules/title.php:13
+msgid "Eikra: Section Title"
+msgstr ""
+
+#: vc-modules/title.php:55
+msgid "Title font size"
+msgstr ""
+
+#: vc-modules/title.php:58
+msgid "Title font size in px eg. 30"
+msgstr ""
+
+#: vc-modules/title.php:70
+msgid "Subtitle color"
+msgstr ""
+
+#: vc-modules/video.php:13
+msgid "Eikra: Video"
+msgstr ""
+
+#: vc-modules/video.php:16
+msgid "Video Tour"
+msgstr ""
+
+#: vc-modules/video.php:32
+msgid "Background Type"
+msgstr ""
+
+#: vc-modules/video.php:46
+msgid "Full-Screen"
+msgstr ""
+
+#: vc-modules/video.php:47
+msgid "Half-Screen"
+msgstr ""
+
+#: vc-modules/video.php:74
+msgid "Video Link"
+msgstr ""
+
+#: vc-modules/video.php:77
+msgid "Enter any video link from external sources eg. http://www.youtube.com/watch?v=1iIZeIy7TqM"
+msgstr ""
+
+#: widgets/about-widget.php:13
+msgid "Eikra: About"
+msgstr ""
+
+#: widgets/about-widget.php:14
+msgid "Eikra: About Widget"
+msgstr ""
+
+#: widgets/about-widget.php:85
+msgid "EIKRA"
+msgstr ""
+
+#: widgets/about-widget.php:104
+msgid "Logo"
+msgstr ""
+
+#: widgets/about-widget.php:106
+msgid "Image size should be 40x40 px"
+msgstr ""
+
+#: widgets/about-widget.php:109
+msgid "Description"
+msgstr ""
+
+#: widgets/about-widget.php:113
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/about-widget.php:117
+msgid "Twitter URL"
+msgstr ""
+
+#: widgets/about-widget.php:121
+msgid "Google Plus URL"
+msgstr ""
+
+#: widgets/about-widget.php:125
+msgid "Linkedin URL"
+msgstr ""
+
+#: widgets/about-widget.php:129
+msgid "Pinterest URL"
+msgstr ""
+
+#: widgets/about-widget.php:133
+msgid "Rss Feed URL"
+msgstr ""
+
+#: widgets/about-widget.php:137
+msgid "Instagram URL"
+msgstr ""
+
+#: widgets/course-cat-widget.php:13
+msgid "Eikra: Course Category"
+msgstr ""
+
+#: widgets/course-cat-widget.php:14
+msgid "Eikra: Course Category Widget"
+msgstr ""
+
+#: widgets/course-cat-widget.php:62
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/course-cat-widget.php:66
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/info-widget.php:13
+msgid "Eikra: Information"
+msgstr ""
+
+#: widgets/info-widget.php:14
+msgid "Eikra: Information Widget"
+msgstr ""
+
+#: widgets/info-widget.php:61
+msgid "Information"
+msgstr ""
+
+#: widgets/info-widget.php:80
+msgid "Phone 1"
+msgstr ""
+
+#: widgets/info-widget.php:84
+msgid "Phone 2"
+msgstr ""
+
+#: widgets/info-widget.php:92
+msgid "Fax"
+msgstr ""
+
+#: vc-modules/inc/abstruct.php:55
+msgid "Eikra"
+msgstr ""
+
+#: vc-modules/views/contact-1.php:23
+msgid "E-mail"
+msgstr ""
+
+#: vc-modules/views/contact-1.php:36
+msgid "Find Us On"
+msgstr ""
+
+#: vc-modules/views/course-isotope-2.php:34
+msgid "New Courses"
+msgstr ""
+
+#: vc-modules/views/course-isotope-2.php:36
+msgid "Popular Courses"
+msgstr ""
+
+#: vc-modules/views/course-isotope-2.php:67
+msgid "SEE ALL COURSES"
+msgstr ""
+
+#: vc-modules/views/course-search.php:36
+msgid "Enter Your Keyword ..."
+msgstr ""
+
+#: vc-modules/views/event-box.php:34
+msgid "Details"
+msgstr ""
+
+#: vc-modules/views/event-box.php:41, vc-modules/views/event-grid.php:65, vc-modules/views/event-list.php:56
+msgid "No Events Available"
+msgstr ""
+
+#: vc-modules/views/event-countdown.php:9
+msgid "Please Select an Event"
+msgstr ""
+
+#: vc-modules/views/instructor-grid-1.php:104, vc-modules/views/instructor-grid-2.php:111, vc-modules/views/instructor-grid-3.php:104, vc-modules/views/instructor-grid-nolms-1.php:79, vc-modules/views/instructor-grid-nolms-2.php:86, vc-modules/views/instructor-grid-nolms-3.php:79, vc-modules/views/instructor-slider-1.php:90, vc-modules/views/instructor-slider-2.php:97, vc-modules/views/instructor-slider-4.php:80, vc-modules/views/instructor-slider-nolms-1.php:76, vc-modules/views/instructor-slider-nolms-2.php:83, vc-modules/views/instructor-slider-nolms-4.php:68
+msgid "No Instructors Found"
+msgstr ""
+
+#: vc-modules/views/posts-2.php:48, vc-modules/views/posts.php:73
+msgid "No posts found"
+msgstr ""
+
+#: vc-modules/views/research-1.php:66, vc-modules/views/research-2.php:75, vc-modules/views/research-3.php:78
+msgid "No Research Found"
+msgstr ""
+
+#: vc-modules/views/testimonial-1.php:63, vc-modules/views/testimonial-2.php:56, vc-modules/views/testimonial-3.php:63
+msgid "No Testimonial Found"
+msgstr ""

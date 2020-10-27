@@ -1,0 +1,405 @@
+# Translation of Plugins - Click to Chat - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Click to Chat - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-27 15:55:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Click to Chat - Development (trunk)\n"
+
+#: new/admin/admin_commons/admin-show-hide.php:281
+msgid "Category name's to Hide - add ',' after each category name"
+msgstr "Categorienaam om te verbergen - toevoegen ''' na elke categorienaam"
+
+#: prev/admin/class-ccw-admin-page.php:24
+msgid "Switch to new User Interface"
+msgstr "Overschakelen naar nieuwe gebruikersinterface"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:677
+msgid "Animations for floating styles"
+msgstr "Animaties voor zwevende stijlen"
+
+#: prev/admin/class-ccw-admin-page.php:44
+msgid "App First / If Cache Issue"
+msgstr "App eerst / Indien cache probleem"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:162
+#: prev/admin/class-ccw-admin-page-customize-styles.php:560
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
+
+#: prev/admin/class-ccw-admin-page.php:367
+msgid "Google Tag Manager"
+msgstr "Google Tag Manager"
+
+#: prev/admin/class-ccw-admin-page.php:38
+msgid "Facebook Analytics"
+msgstr "Facebook Analytics"
+
+#: prev/admin/class-ccw-admin-page.php:37
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:863
+msgid "Custom Parameter 3"
+msgstr "Aangepaste parameter 3"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:842
+msgid "Custom Parameter 2"
+msgstr "Aangepaste parameter 2"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:832
+#: prev/admin/class-ccw-admin-page-customize-styles.php:853
+#: prev/admin/class-ccw-admin-page-customize-styles.php:874
+msgid "Value"
+msgstr "Waarde"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:827
+#: prev/admin/class-ccw-admin-page-customize-styles.php:848
+#: prev/admin/class-ccw-admin-page-customize-styles.php:869
+msgid "Name"
+msgstr "Naam"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:821
+msgid "Custom Parameter 1"
+msgstr "Aangepaste parameter 1"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:811
+msgid "Event Name"
+msgstr "Evenement naam"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:805
+msgid "Event Parameters"
+msgstr "Gebeurtenis parameters"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:804
+msgid "Enable Facebook Analytics at plugin home settings"
+msgstr "Facebook Analytics inschakelen bij de homepagina instellingen van de plugin"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:771
+msgid "Label Name"
+msgstr "Labelnaam"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:761
+msgid "Action Name"
+msgstr "Actienaam"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:751
+msgid "Category Name"
+msgstr "Categorie Naam"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:745
+msgid "Event Values"
+msgstr "Gebeurtenis waarden"
+
+#. Plugin Name of the plugin
+#: prev/admin/class-ccw-admin-page-customize-styles.php:744
+#: prev/admin/class-ccw-admin-page-customize-styles.php:804
+msgid "Click to Chat"
+msgstr "Klik om te chatten"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:744
+msgid "Enable Google Analytics at plugin home settings"
+msgstr "Google Analytics inschakelen bij de homepagina van de plugin"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:638
+msgid "Mobile - Image Width"
+msgstr "Mobiel - Afbeelding breedte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:629
+msgid "Mobile - Image Height"
+msgstr "Mobiel - Afbeelding hoogte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:619
+msgid "Desktop - Image Width"
+msgstr "Bureaublad - Afbeeldingsbreedte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:610
+msgid "Desktop - Image Height"
+msgstr "Bureaublad - Afbeeldingshoogte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:598
+msgid "Image URL - Mobile"
+msgstr "Afbeeldings-URL - Mobiel"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:590
+#: prev/admin/class-ccw-admin-page-customize-styles.php:599
+#: prev/admin/class-ccw-admin-page-customize-styles.php:605
+msgid "own image - style 99"
+msgstr "eigen afbeelding - stijl 99"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:589
+msgid "Image URL - Desktop"
+msgstr "Afbeeldings-URL - Bureaublad"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:715
+msgid "If Yes, Animation on hover - works based on - Animation  on page load - value"
+msgstr "Zo ja, animatie op hover - werkt op basis van - animatie bij pagina laden - waarde"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:713
+msgid "Animation on mouse hover"
+msgstr "Animatie op muis hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:706
+msgid "Animation on hover"
+msgstr "Animatie op hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:699
+msgid "animation on page load"
+msgstr "animatie bij het laden van pagina's"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:684
+msgid "Animation on Page load"
+msgstr "Animatie bij het laden van pagina's"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:676
+msgid "alpha stage, things may change, may not work as like this in next releases, </br> may need to reconfigure also .."
+msgstr "alpha-fase, dingen kunnen veranderen, kan niet werken zoals dat in de volgende releases deed,</br>mogelijk moet je ook opnieuw configureren .."
+
+#: prev/inc/class-ht-ccw.php:59 prev/inc/class-ht-ccw.php:63
+#: new/class-ht-ctc.php:55 new/class-ht-ctc.php:59
+msgid "Cheatin&#8217; huh?"
+msgstr "Wat ben jij aan het proberen?"
+
+#: prev/inc/class-ht-ccw-register.php:54 new/inc/class-ht-ctc-register.php:83
+msgid "Settings"
+msgstr "Instellingen"
+
+#: new/admin/admin_commons/admin-show-hide.php:471
+msgid "Category name's to Show - add ',' after each category name"
+msgstr "Categorie namen om weer te geven - toevoegen, na elke categorienaam"
+
+#: prev/admin/class-ccw-admin-page.php:271
+msgid " e.g. 10px - please add css units as suffix, e.g. 10px, 10%, 10rem, 10em"
+msgstr "b.v. 10px - voeg css-eenheden toe als achtervoegsel, bijvoorbeeld 10px, 10%, 10rem, 10em"
+
+#: prev/admin/class-ccw-admin-page.php:270
+msgid "Fixed position to place"
+msgstr "Vaste positie om te plaatsen"
+
+#: prev/admin/class-ccw-admin-page.php:268
+msgid "top right"
+msgstr "rechtsboven"
+
+#: prev/admin/class-ccw-admin-page.php:267
+msgid "top left"
+msgstr "links boven"
+
+#: prev/admin/class-ccw-admin-page.php:266
+msgid "bottom left"
+msgstr "linksonder"
+
+#: prev/admin/class-ccw-admin-page.php:265
+msgid "bottom right"
+msgstr "rechtsonder"
+
+#: prev/admin/class-ccw-admin-page.php:366
+#: new/admin/class-ht-ctc-admin-share-page.php:144
+#: new/admin/class-ht-ctc-admin-group-page.php:143
+msgid "Customize Styles"
+msgstr "Stijlen aanpassen"
+
+#: prev/admin/class-ccw-admin-page.php:178
+msgid "Select Style for Desktop"
+msgstr "Stijl selecteren voor bureaublad"
+
+#: prev/admin/class-ccw-admin-page.php:176
+msgid "Hide on Desktop Devices"
+msgstr "Verbergen op desktop apparaten"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:677
+#: prev/admin/class-ccw-admin-page-customize-styles.php:745
+#: prev/admin/class-ccw-admin-page-customize-styles.php:805
+msgid "more info"
+msgstr "meer informatie"
+
+#: new/admin/admin_commons/admin-show-hide.php:88
+msgid "enable"
+msgstr "inschakelen"
+
+#: prev/admin/class-ccw-admin-page.php:114
+msgid "No"
+msgstr "Nee"
+
+#: prev/admin/class-ccw-admin-page.php:43
+msgid "Shortcode name"
+msgstr "Shortcode naam"
+
+#: prev/admin/class-ccw-admin-page.php:42
+msgid "Categorys to Hide"
+msgstr "Categorien om te verbergen"
+
+#: prev/admin/class-ccw-admin-page.php:41
+msgid "Posts, Pages Id's to Hide"
+msgstr "Berichten, pagina's id's te verbergen"
+
+#: prev/admin/class-ccw-admin-page.php:40
+msgid "Hide Based on post type"
+msgstr "Verbergen op basis van het berichttype"
+
+#: prev/admin/class-ccw-admin-page.php:35
+msgid "Text to Display"
+msgstr "Tekst om weer te geven"
+
+#: prev/admin/class-ccw-admin-page.php:34
+msgid "Position to Place"
+msgstr "Positie naar plaats"
+
+#: prev/admin/class-ccw-admin-page.php:33
+msgid "Style for Mobile Devices"
+msgstr "Stijl voor mobiele apparaten"
+
+#: prev/admin/class-ccw-admin-page.php:32
+msgid "Style for Desktops"
+msgstr "Stijl voor desktops"
+
+#: prev/admin/class-ccw-admin-page.php:31
+msgid "Group Id"
+msgstr "Groep ID"
+
+#: prev/admin/class-ccw-admin-page.php:30
+#: prev/admin/class-ccw-admin-page.php:235
+msgid "Initial Message"
+msgstr "Eerste bericht"
+
+#: prev/admin/class-ccw-admin-page.php:29
+msgid "WhatsApp Number"
+msgstr "WhatsApp nummer"
+
+#: prev/admin/class-ccw-admin-page.php:28
+msgid "Return Type"
+msgstr "Retourtype"
+
+#: prev/admin/class-ccw-admin-page.php:27
+msgid "Enable ShortCodes"
+msgstr "Shortcodes inschakelen"
+
+#: prev/admin/class-ccw-admin-page.php:26
+msgid "Enable Floating Styles"
+msgstr "Zwevende stijlen inschakelen"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:526
+msgid "Icon flow"
+msgstr "Pictogramstroom"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:518
+msgid "Icon float"
+msgstr "Icon float"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:509
+msgid "Icon color on hover"
+msgstr "Pictogramkleur bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:500
+msgid "Background Color on hover"
+msgstr "Achtergrondkleur bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:491
+msgid "Text Color on hover"
+msgstr "Tekstkleur - Bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:482
+msgid "Icon color"
+msgstr "Icoon kleur"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:439
+msgid "add height, width, line-height same values - if feels like icon is not center then adjust 'Line Height' to make icon looks center of the box"
+msgstr "voeg hoogte, breedte, lijnhoogte dezelfde waarden - als het aanvoelt dat het pictogram niet in het midden is passen dan 'Lijnhoogte' aan om ervoor te zorgen dat het pictogram in het midden van de box zit"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:432
+msgid "box Line Height"
+msgstr "lijnhoogte van box"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:423
+msgid "box Width"
+msgstr "Box breedte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:414
+msgid "box Height"
+msgstr "box hoogte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:404
+msgid "box color - when hover"
+msgstr "box kleur - bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:395
+msgid "box color"
+msgstr "Box kleur"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:343
+msgid "add height, width, line-height same values - if feels like icon is not center then adjust 'Line Height' to make icon looks center of the circle"
+msgstr "voeg hoogte, breedte, lijnhoogte dezelfde waarden - als het aanvoelt dat het pictogram niet in het midden is passen dan 'Lijnhoogte' aan om ervoor te zorgen dat het pictogram in het midden van de box zit"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:336
+msgid "Circle Line Height"
+msgstr "Cirkellijnhoogte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:327
+msgid "Circle Width"
+msgstr "Cirkelbreedte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:318
+msgid "Circle Height"
+msgstr "Cirkelhoogte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:308
+msgid "Circle color - when hover"
+msgstr "Cirkelkleur - bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:299
+msgid "Circle color"
+msgstr "Cirkelkleur"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:245
+#: prev/admin/class-ccw-admin-page-customize-styles.php:290
+#: prev/admin/class-ccw-admin-page-customize-styles.php:386
+msgid "Size of icon"
+msgstr "Grootte van pictogram"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:236
+#: prev/admin/class-ccw-admin-page-customize-styles.php:281
+#: prev/admin/class-ccw-admin-page-customize-styles.php:377
+msgid "Color of icon - when hover"
+msgstr "Kleur van pictogram - bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:226
+#: prev/admin/class-ccw-admin-page-customize-styles.php:271
+#: prev/admin/class-ccw-admin-page-customize-styles.php:367
+msgid "Color of icon"
+msgstr "Kleur van pictogram"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:199
+#: prev/admin/class-ccw-admin-page-customize-styles.php:473
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:138
+msgid "Text Decoration on focus"
+msgstr "Tekst decoratie op focus"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:127
+msgid "Text Decoration when Hover"
+msgstr "Tekst decoratie bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:110
+#: prev/admin/class-ccw-admin-page-customize-styles.php:121
+msgid "Text Decoration"
+msgstr "Tekst Decoratie"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:101
+msgid "Text Color When Hover"
+msgstr "Tekstkleur bij hover"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:92
+#: prev/admin/class-ccw-admin-page-customize-styles.php:190
+#: prev/admin/class-ccw-admin-page-customize-styles.php:464
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:533
+msgid "Icon size"
+msgstr "Icoongrootte"

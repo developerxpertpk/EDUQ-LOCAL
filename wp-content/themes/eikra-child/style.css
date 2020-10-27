@@ -1,0 +1,308 @@
+/*
+Template:       eikra
+Theme Name:     Eikra Child Theme
+Theme URI:      https://themeforest.net/item/eikra-education-wordpress-theme/20950897
+Author:         RadiusTheme
+Author URI:     http://radiustheme.com
+Description:    Eikra is a clean and modern theme for all kinds of Education and Learning Institute.
+Version:        3.6
+Tags: left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, translation-ready
+License: Envato split License
+License URI: https://themeforest.net/licenses/terms/regular
+*/
+body .content-area {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.header-icon-area ul.product_list_widget li img{
+    display: none;
+}
+.topbar-style-4 #tophead .tophead-contact ul li{
+    font-size: 15px;
+}
+/*FIXED HEADER*/
+.fixed-header{
+    position: fixed;
+    width: 100%;
+    z-index: 99999;
+    background: rgb(255, 255, 255);
+    transition: none;
+}
+/*HOME PAGE STYLE*/
+.home #primary{
+    padding: 0 0 30px;
+}
+.colorwhite,
+.colorwhite h2,
+.colorwhite.whitelinks h2,
+.colorwhite.whitelinks h3,
+.colorwhite.whitelinks a {
+    color: #fff;
+}
+.colorwhite.whitelinks h3:after {
+    content: ' ';
+    border-bottom: 4px solid #007DC5;
+    width: 50px;
+    display: block;
+    padding-top: 10px;
+}
+.affix {
+    top: 107px;
+    width: 300px;
+    z-index: 9999 !important;
+    background: #fff;
+}
+/*VCA Courses Page*/
+.cursus-block {
+    border: 1px solid #f0f0f0;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    padding: 14px 20px;
+    margin-bottom: 35px;
+}
+#VCA-andere-talen ul li a{
+    color: #007dc5;
+}
+/*TEAM Post Type Style*/
+.team-member {
+    box-shadow: 0px 4px 8px 4px rgba(0, 0, 0, 0.2);
+    margin: auto;
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+	background:#fff;
+}
+.team-member p{
+    margin-bottom: 6px;
+}
+.team-member .name{
+    color: #007DC5;
+    font-size: 26px;
+    margin: 15px 0px;
+}
+.team-member .position {
+    font-size: 16px;
+    font-weight: 600;
+}
+.team-member .email {
+    margin-bottom: 10px!important;
+}
+.team-member .fa {
+    margin-right: 3px; 
+}
+.team-member .quotation{
+    cursor: pointer;
+    padding: 15px;
+    margin: auto;
+    background: #001a39;
+    transition: all 0.5s ease-in-out;
+}
+
+.team-member .quotation a{
+    color: #f57d30;
+}
+.team-member .quotation:hover{
+    background:  #f57d30;
+}
+.team-member .quotation:hover a{
+    color:  #001a39;
+}
+/*Single Product Style*/
+.single-product .vc_tta-tab>a{
+    color:#FFFFFF !important;
+    border-color:#007DC5;
+    background-color:#007DC5 !important;
+}
+.single-product .vc_tta-tab.vc_active>a{
+    background-color:#F57D30 !important;      
+}
+.field-heading {
+    color: #505750;
+    font-size: 26px!important;
+}
+/*Woocommerce Forms Custom Style*/
+select#billing_country{
+    height: 43px;
+}
+.label-training-form input[type=radio]{
+    margin-right: 4px;  
+} 
+#form_subscription .vc_row-fluid.rowform{
+    margin-bottom: 15px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+#form_subscription .formheader{
+    color: #505750;
+    font-size: 26px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#form_subscription .formsubheader{
+    color: #505750;
+    font-size: 20px;
+    padding: 15px 0;
+}
+.subscription-checkout .cs-form-row,
+.subscription-checkout .cs-form-row .form-row{
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.subscription-checkout .cs-form-row input,
+.cs-form  .cs-form-row input{
+    margin: auto 0 10px!important;
+}
+.subscription-checkout .c-fullname .form-row,
+.subscription-checkout .address .form-row{
+    width: 100%;
+}
+
+.subscription-checkout [class^="vc_col-sm-"], .subscription-checkout [class*=" vc_col-sm-"] {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.subscription-checkout .customer-info,
+.subscription-checkout .woocommerce-additional-fields,
+.subscription-checkout .order-details,
+.subscription-checkout .cs-payment-options,
+.subscription-checkout .participants-info{
+    border: 2px solid #f0f0f0;
+    background-color: #f8f8f8;
+    float: left;
+    width: 100%;
+    padding: 25px 10px;
+    margin-bottom: 20px;
+}
+.subscription-checkout .participants-info .participant-info{
+    float: left;
+    width: 100%;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #f0f0f0;
+}
+.subscription-checkout .participants-info .participant-info:after{
+    content: '';
+    border-bottom: 2px solid #f0f0f0;
+}
+/*Form Resposive Style*/
+@media (min-width:768px){
+    .woocommerce-cart .site-main {
+        min-height: 500px;
+    }
+}
+@media (max-width:767px){
+    .team-container .team-member-wrapper{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .team-member {
+        margin: auto;
+        float: none;
+        width: auto;
+        max-width: 400px;
+    }
+    #form_subscription .vc_row-fluid.rowform {
+        margin-bottom: 10px;
+    }
+    #form_subscription .form-group [class^="vc_col-sm-"]{
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-bottom: 10px;
+    }
+    #form_subscription #cursist{
+        clear: both;
+    }
+
+    #form_subscription .cursist .rowform:first-child .control-label{
+        display: none;
+    }
+    #form_subscription  .cursist .rowform:first-child .formsubheader{
+        padding: 0;
+    }
+    #form_subscription .formheader {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .woocommerce-checkout form.woocommerce-checkout .form-row {
+        margin-bottom: 0px;
+    }
+    .woocommerce-checkout  .woocommerce-additional-fields #order_comments{
+        min-height: 90px;
+    }
+}
+/*Woocommerce Thank you Page*/
+.child-theme .woocommerce-thankyou-order-details{
+    padding-left: 0;
+}
+.child-theme .woocommerce-order-details thead th{
+    width: 50%;
+}
+/*Cart Page*/
+.subscription-checkout .woocommerce-additional-fields,
+.woocommerce-cart .cart-collaterals .cross-sells.no-nav{
+    display: none;
+}
+.woocommerce-cart #primary .cart-collaterals .cart_totals {
+    width: 100%;
+}
+.woocommerce-cart #primary .cart .button{
+    width: 100%;
+}
+.woocommerce-cart #primary .woocommerce-cart-form .shop_table.cart {
+    margin: 0 0 30px;
+}
+/*SEARCH PAGE*/
+.search .sidebar-widget-area .widget{
+    border: 0px solid transparent;
+}
+.search .affix {
+    width: 240px;
+}
+/*FOOTER STYLE*/
+.footer-top-area .widget_nav_menu ul.menu li {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+}
+.footer-top-area .rt-vc-contact-1 .rtin-item li .contact-social li a {
+    color: #fff;
+    border-color: #fff;
+}
+@media(min-width:768px){
+#mlw_qmn_timer{
+bottom: 70px!important;
+}
+}
+@media(max-width:767px){
+#mlw_qmn_timer{
+top: 100px!important;
+}
+}
+.is-affixed{z-index: 9999;}
+.single-product .single-product-edit .wpb_content_element:last-child{
+//margin-bottom:0px;
+}
+.single-product .single-product-edit #wrapper_contact{
+    will-change: min-height;
+}
+
+.single-product .single-product-edit .team-member{
+    transform: translate(0, 0); /* For browsers don't support translate3d. */
+    transform: translate3d(0, 0, 0);
+    will-change: position, transform;
+}
+
+@media(max-width:992px){
+.fixed-header #menu-hoofdmenu li span{display:none!important;}
+}
+/*21-10-2020 Sandeep Kumar */
+@media(max-width:767px){
+.ht-ctc.ht-ctc-chat{
+    bottom: 115px !important;
+  }
+}
